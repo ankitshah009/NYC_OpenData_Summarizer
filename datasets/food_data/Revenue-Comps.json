@@ -1,0 +1,133 @@
+[
+    {
+        "times_square": "American Eagle ",
+        "sq_ft": "15000",
+        "dec": "1500000",
+        "impressions": "n/a",
+        "pricing_model": "Duration 1 month",
+        "unit_all_one_month_": "2 minutes/hour (19 hrs/day)",
+        "total_minutes": "1140",
+        "rate": "69600",
+        "full_motion_video": "yes",
+        "onsite_audio": "no",
+        "cpm": "1.5466666667",
+        "cost_per_minute": "61.05",
+        "cost_per_sf": "4.63"
+    },
+    {
+        "unit_all_one_month_": "4 minutes/hour (19 hrs/day) ",
+        "total_minutes": "2280",
+        "rate": "129600",
+        "full_motion_video": "yes",
+        "onsite_audio": "no",
+        "cpm": "2.88",
+        "cost_per_minute": "56.84",
+        "cost_per_sf": "8.64"
+    },
+    {
+        "unit_all_one_month_": "6 minutes/hour (19 hrs/day) ",
+        "total_minutes": "3420",
+        "rate": "180000",
+        "full_motion_video": "yes",
+        "onsite_audio": "no",
+        "cpm": "4",
+        "cost_per_minute": "52.63",
+        "cost_per_sf": "12"
+    },
+    {
+        "times_square": "Sony/Fox Screen (Times Square 1)",
+        "dimensions": "35 x 40",
+        "sq_ft": "1400",
+        "dec": "1600000",
+        "impressions": "n/a",
+        "pricing_model": "Duration 1 month",
+        "unit_all_one_month_": "2 minutes/hour (18 hrs/day)",
+        "total_minutes": "1080",
+        "rate": "22500",
+        "full_motion_video": "yes",
+        "onsite_audio": "no",
+        "advance_interactive": "no",
+        "cpm": "0.46875",
+        "cost_per_minute": "20.83",
+        "cost_per_sf": "16.07"
+    },
+    {
+        "times_square": "ABC Supersign",
+        "sq_ft": "4630",
+        "dec": "1600000",
+        "impressions": "n/a",
+        "pricing_model": "Duration 1 month",
+        "unit_all_one_month_": "2 minutes/hour (15 hrs/day) ",
+        "total_minutes": "900",
+        "rate": "53000",
+        "full_motion_video": "yes",
+        "onsite_audio": "no",
+        "advance_interactive": "no",
+        "cpm": "1.1041666667",
+        "cost_per_minute": "58.88",
+        "cost_per_sf": "11.44"
+    },
+    {
+        "times_square": "Times Square 2",
+        "sq_ft": "17754",
+        "dec": "1600000",
+        "impressions": "n/a",
+        "pricing_model": "Duration 1 month",
+        "unit_all_one_month_": "3 min/hour (19 hrs/day) plus blackout below",
+        "total_minutes": "1710",
+        "rate": "103250",
+        "full_motion_video": "yes",
+        "onsite_audio": "no",
+        "cpm": "2.1510416667",
+        "cost_per_minute": "60.38",
+        "cost_per_sf": "5.81"
+    },
+    {
+        "times_square": "Nasdaq ",
+        "dimensions": "120 x 84",
+        "sq_ft": "10080",
+        "unit_all_one_month_": "Blackout periods 9-10am and 3:30 - 4:30 pm plus no coverage NYE"
+    },
+    {
+        "times_square": "Reuters",
+        "dimensions": "7 boards various sizes",
+        "sq_ft": "7674",
+        "unit_all_one_month_": "3 min/hour (19 hrs/day)"
+    },
+    {
+        "times_square": " W Hotel  (Broadway and 47th Street) ",
+        "dimensions": "30 x 40",
+        "sq_ft": "1200",
+        "dec": "1600000",
+        "impressions": "n/a",
+        "pricing_model": "Duration 1 month",
+        "unit_all_one_month_": "4 min/hour x 19 Hours/day",
+        "total_minutes": "2280",
+        "rate": "70000",
+        "full_motion_video": "yes",
+        "onsite_audio": "no",
+        "cpm": "1.4583333333",
+        "cost_per_minute": "30.70",
+        "cost_per_sf": "58.33"
+    },
+    {
+        "unit_all_one_month_": "8 min/hour x 19 Hours/day",
+        "total_minutes": "4560",
+        "rate": "125000",
+        "full_motion_video": "yes",
+        "cpm": "2.6041666667",
+        "cost_per_minute": "27.41",
+        "cost_per_sf": "104.16"
+    },
+    {
+        "advance_interactive": "Average",
+        "cpm": "3.18",
+        "cost_per_minute": "43.35",
+        "cost_per_sf": "18.83"
+    },
+    {
+        "times_square": "SOURCE: provided by TSA - anonymous sign manufacturer",
+        "dec": "Daily Effective Circulation: number of 18+ people seeing ad in 18hr day",
+        "advance_interactive": "Efficiency: value delivered to audience relative to cost of space, cost per thousand "
+    }
+]

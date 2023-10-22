@@ -1,0 +1,2622 @@
+[
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "85 Watkins Street",
+        "open_year_round": "Yes",
+        "seasondates": "Year-round",
+        "latitude": "40.670986",
+        "hoursoperations": "4-6pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "No",
+        "borough": "Brooklyn",
+        "longitude": "-73.908194",
+        "location_point": {
+            "latitude": "40.670986",
+            "needs_recoding": false,
+            "longitude": "-73.908194"
+        },
+        "marketname": "Teens for Food Justice Fresh Food Box & Farmstand at Brownsville Collaborative\u00a0Middle School",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 110th St & Manhattan Ave",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.801155",
+        "hoursoperations": "9am-4pm (winter closes at 3pm)",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.959647",
+        "location_point": {
+            "latitude": "40.801155",
+            "needs_recoding": false,
+            "longitude": "-73.959647"
+        },
+        "marketname": "Morningside Park's Down to Earth Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 170th St & Townsend Ave",
+        "open_year_round": "No",
+        "seasondates": "8/12/20-11/25/20",
+        "latitude": "40.839882",
+        "hoursoperations": "2:30pm-6:30pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.916783",
+        "location_point": {
+            "latitude": "40.839882",
+            "needs_recoding": false,
+            "longitude": "-73.916783"
+        },
+        "marketname": "170 Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Pier 17 Square",
+        "open_year_round": "No",
+        "seasondates": "04/26/2020-11/22/2020",
+        "latitude": "40.705799",
+        "hoursoperations": "11am-5pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-74.002572",
+        "location_point": {
+            "latitude": "40.705799",
+            "needs_recoding": false,
+            "longitude": "-74.002572"
+        },
+        "marketname": "Fulton Stall Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Roosevelt Ave & 103rd St",
+        "open_year_round": "No",
+        "seasondates": "6/19 to 11/27",
+        "latitude": "40.749811",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.861668",
+        "location_point": {
+            "latitude": "40.749811",
+            "needs_recoding": false,
+            "longitude": "-73.861668"
+        },
+        "marketname": "Corona Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 229th Street and Schieffelin Avenue",
+        "open_year_round": "No",
+        "seasondates": "07/16-11/19",
+        "latitude": "40.88503",
+        "hoursoperations": "9:30am-3pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.843146",
+        "location_point": {
+            "latitude": "40.88503",
+            "needs_recoding": false,
+            "longitude": "-73.843146"
+        },
+        "marketname": "Eastchester Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "385 Beach 45th St",
+        "open_year_round": "No",
+        "seasondates": "07/11/2020-11/21/2020",
+        "latitude": "40.595612",
+        "hoursoperations": "10am-2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.776551",
+        "location_point": {
+            "latitude": "40.595612",
+            "needs_recoding": false,
+            "longitude": "-73.776551"
+        },
+        "marketname": "Far Rockaway Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Mt Eden & Morris Aves",
+        "open_year_round": "No",
+        "seasondates": "6/9/2020-11/24/2020",
+        "latitude": "40.842924",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Tuesday\nThursday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.909558",
+        "location_point": {
+            "latitude": "40.842924",
+            "needs_recoding": false,
+            "longitude": "-73.909558"
+        },
+        "marketname": "Harvest Home Mt. Eden Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Union Ave bet Driggs and N 12th Sts",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.719219",
+        "hoursoperations": "8am - 2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.952479",
+        "location_point": {
+            "latitude": "40.719219",
+            "needs_recoding": false,
+            "longitude": "-73.952479"
+        },
+        "marketname": "McCarren Park Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 1st St & Avenue X",
+        "open_year_round": "No",
+        "seasondates": "Tentative",
+        "latitude": "40.590649",
+        "hoursoperations": "1:45pm-2:45pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.969298",
+        "location_point": {
+            "latitude": "40.590649",
+            "needs_recoding": false,
+            "longitude": "-73.969298"
+        },
+        "marketname": "Edible Schoolyard NYC's Farm Stand at PS 216",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "4422 3rd Ave.",
+        "open_year_round": "No",
+        "seasondates": "09/01/2020-11/20/2020",
+        "latitude": "40.853237",
+        "hoursoperations": "10 a.m. - 5 p.m.",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.891742",
+        "location_point": {
+            "latitude": "40.853237",
+            "needs_recoding": false,
+            "longitude": "-73.891742"
+        },
+        "marketname": "St. Barnabas Hospital Farm Stand & C.S.A.",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Carroll St bet Smith & Court Sts",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.68106",
+        "hoursoperations": "8am - 2pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.996528",
+        "location_point": {
+            "latitude": "40.68106",
+            "needs_recoding": false,
+            "longitude": "-73.996528"
+        },
+        "marketname": "Carroll Gardens Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "100 West Mosholu Parkway South",
+        "open_year_round": "Yes",
+        "seasondates": "Year-round",
+        "latitude": "40.882178",
+        "hoursoperations": "4-6pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.88691",
+        "location_point": {
+            "latitude": "40.882178",
+            "needs_recoding": false,
+            "longitude": "-73.88691"
+        },
+        "marketname": "Teens for Food Justice Fresh Food Box & Farmstand at Dewitt Clinton Educational Campus",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "514 Rockaway Ave",
+        "open_year_round": "No",
+        "seasondates": "06/29/2020-10/31/2020",
+        "latitude": "40.667554",
+        "hoursoperations": "(F) 9am - 4pm\n(S) 9am-3pm",
+        "daysoperation": "Friday & Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.910207",
+        "location_point": {
+            "latitude": "40.667554",
+            "needs_recoding": false,
+            "longitude": "-73.910207"
+        },
+        "marketname": "Isabahlia Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E Tremont Ave bet LaFontaine & Arthur Aves",
+        "open_year_round": "No",
+        "seasondates": "07/07/2020-11/17/2020",
+        "latitude": "40.846487",
+        "hoursoperations": "8am-2pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.894337",
+        "location_point": {
+            "latitude": "40.846487",
+            "needs_recoding": false,
+            "longitude": "-73.894337"
+        },
+        "marketname": "La Familia Verde Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E. 7th St. & Avenue A",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.726054",
+        "hoursoperations": "9am - 5pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.983534",
+        "location_point": {
+            "latitude": "40.726054",
+            "needs_recoding": false,
+            "longitude": "-73.983534"
+        },
+        "marketname": "Tompkins Square Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "34th Ave bet 79th & 80th Sts",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.753435",
+        "hoursoperations": "8am - 2pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.887822",
+        "location_point": {
+            "latitude": "40.753435",
+            "needs_recoding": false,
+            "longitude": "-73.887822"
+        },
+        "marketname": "Jackson Heights Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E Gun Hill Rd & Dekalb Ave",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.88222",
+        "hoursoperations": "10am-5pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.880458",
+        "location_point": {
+            "latitude": "40.88222",
+            "needs_recoding": false,
+            "longitude": "-73.880458"
+        },
+        "marketname": "Norwood Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Flatbush Ave. & Prospect Park W., at Prospect Park\u2019s NW Entrance",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.663812",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.962866",
+        "location_point": {
+            "latitude": "40.663812",
+            "needs_recoding": false,
+            "longitude": "-73.962866"
+        },
+        "marketname": "Grand Army Plaza Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Amsterdam bet W 143rd & 144th Sts., at Johnny Hartman Plaza",
+        "open_year_round": "No",
+        "seasondates": "06/24/2020-11/25/2020",
+        "latitude": "40.82394",
+        "hoursoperations": "11am-6pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.948552",
+        "location_point": {
+            "latitude": "40.82394",
+            "needs_recoding": false,
+            "longitude": "-73.948552"
+        },
+        "marketname": "Hamilton Heights Green Youthmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Russell St. & Nassau Ave. (center of park)",
+        "open_year_round": "No",
+        "seasondates": "3/01/2020-12/20/20",
+        "latitude": "40.725617",
+        "hoursoperations": "10am - 3pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.944497",
+        "location_point": {
+            "latitude": "40.725617",
+            "needs_recoding": false,
+            "longitude": "-73.944497"
+        },
+        "marketname": "McGolrick Park's Down to Earth Farmers's Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 175th St bet Wadsworth Ave & Broadway",
+        "open_year_round": "No",
+        "seasondates": "6/25 to 11/19",
+        "latitude": "40.845948",
+        "hoursoperations": "8am - 4pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.937811",
+        "location_point": {
+            "latitude": "40.845948",
+            "needs_recoding": false,
+            "longitude": "-73.937811"
+        },
+        "marketname": "175th Street Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "44th St & 6th Ave",
+        "open_year_round": "Yes",
+        "seasondates": "Year-round",
+        "latitude": "40.647132",
+        "hoursoperations": "8am-3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-74.004623",
+        "location_point": {
+            "latitude": "40.647132",
+            "needs_recoding": false,
+            "longitude": "-74.004623"
+        },
+        "marketname": "6th Ave Sunset Park Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Rockefeller Plaza bet W 49th & 50th\u00a0Sts (Jul-Aug only)",
+        "open_year_round": "No",
+        "seasondates": "7/15 to 8/21; 9/30 to 10/23",
+        "latitude": "40.759065",
+        "hoursoperations": "8am - 5pm",
+        "daysoperation": "Wednesday \nThursday\nFriday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.97845",
+        "location_point": {
+            "latitude": "40.759065",
+            "needs_recoding": false,
+            "longitude": "-73.97845"
+        },
+        "marketname": "Rockefeller Center Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Kissena Blvd. & Maple Ave., at Maple Playground",
+        "open_year_round": "No",
+        "seasondates": "7/8 to 11/25",
+        "latitude": "40.756357",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.825773",
+        "location_point": {
+            "latitude": "40.756357",
+            "needs_recoding": false,
+            "longitude": "-73.825773"
+        },
+        "marketname": "Flushing Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Broadway & W 114th St",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Closed 07/04/19 & 11/28/19- open 11/26/19)",
+        "latitude": "40.806707",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Thursday\nSunday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.964849",
+        "location_point": {
+            "latitude": "40.806707",
+            "needs_recoding": false,
+            "longitude": "-73.964849"
+        },
+        "marketname": "Columbia University Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Knickerbocker Ave & Starr St",
+        "open_year_round": "No",
+        "seasondates": "6/20/2020 - November unclear date",
+        "latitude": "40.702811",
+        "hoursoperations": "9am-4pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.92539",
+        "location_point": {
+            "latitude": "40.702811",
+            "needs_recoding": false,
+            "longitude": "-73.92539"
+        },
+        "marketname": "RB Bushwick Farmers' Market at Maria Hernandez Park",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "31-30 Vernon Boulevard",
+        "open_year_round": "No",
+        "seasondates": "05/02/2020-10/31/2020",
+        "latitude": "40.768504",
+        "hoursoperations": "10am-2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.921724",
+        "location_point": {
+            "latitude": "40.768504",
+            "needs_recoding": false,
+            "longitude": "-73.921724"
+        },
+        "marketname": "Socrates Sculpture Garden",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "21 Jumel Pl.",
+        "open_year_round": "No",
+        "seasondates": "07/07/2020-11/20/20",
+        "latitude": "40.839305",
+        "hoursoperations": "11am-2pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.936159",
+        "location_point": {
+            "latitude": "40.839305",
+            "needs_recoding": false,
+            "longitude": "-73.936159"
+        },
+        "marketname": "Go!Healthy Farm Stand at Mirabal Sisters Campus",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Skillman Ave bet 42nd & 43rd Sts",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.746999",
+        "hoursoperations": "8am - 2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.921724",
+        "location_point": {
+            "latitude": "40.746999",
+            "needs_recoding": false,
+            "longitude": "-73.921724"
+        },
+        "marketname": "Sunnyside Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Union Tpk & 196 Pl",
+        "open_year_round": "No",
+        "seasondates": "05/10/2020-11/22/2020",
+        "latitude": "40.731082",
+        "hoursoperations": "9am-2pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.773997",
+        "location_point": {
+            "latitude": "40.731082",
+            "needs_recoding": false,
+            "longitude": "-73.773997"
+        },
+        "marketname": "Cunningham Park's Down to Earth Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Baychester Ave & E 241st St",
+        "open_year_round": "No",
+        "seasondates": "8/1/20-11/21/20",
+        "latitude": "40.90152",
+        "hoursoperations": "10am-5pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.846937",
+        "location_point": {
+            "latitude": "40.90152",
+            "needs_recoding": false,
+            "longitude": "-73.846937"
+        },
+        "marketname": "Bissel Gardens Farmers Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Columbus Ave bet W 78th & 81st Sts",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.781274",
+        "hoursoperations": "9am - 5pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.975995",
+        "location_point": {
+            "latitude": "40.781274",
+            "needs_recoding": false,
+            "longitude": "-73.975995"
+        },
+        "marketname": "79th Street Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Park Ave bet E 189th St & E Fordham Rd",
+        "open_year_round": "No",
+        "seasondates": "7/10 to 11/20",
+        "latitude": "40.86153",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.891063",
+        "location_point": {
+            "latitude": "40.86153",
+            "needs_recoding": false,
+            "longitude": "-73.891063"
+        },
+        "marketname": "Fordham Plaza Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "560 Columbia St",
+        "open_year_round": "No",
+        "seasondates": "06/20/2020-11/21/2020",
+        "latitude": "40.672524",
+        "hoursoperations": "10am-3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-74.00871",
+        "location_point": {
+            "latitude": "40.672524",
+            "needs_recoding": false,
+            "longitude": "-74.00871"
+        },
+        "marketname": "Red Hook Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Steinway St bet Ditmars Blvd & 23rd Ave., at Ditmars Park",
+        "open_year_round": "No",
+        "seasondates": "07/11/20-11/21/20 (estimate)",
+        "latitude": "40.772854",
+        "hoursoperations": "9:30am-2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.906061",
+        "location_point": {
+            "latitude": "40.772854",
+            "needs_recoding": false,
+            "longitude": "-73.906061"
+        },
+        "marketname": "Ditmars Park Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 47th St & 2nd Ave",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Closed 09/26/19 & 11/25/19)",
+        "latitude": "40.752999",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.969887",
+        "location_point": {
+            "latitude": "40.752999",
+            "needs_recoding": false,
+            "longitude": "-73.969887"
+        },
+        "marketname": "Dag Hammarskjold Plaza Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 99th St bet Madison & Park Aves",
+        "open_year_round": "No",
+        "seasondates": "6/10 to 11/25",
+        "latitude": "40.789169",
+        "hoursoperations": "8am-5pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.952743",
+        "location_point": {
+            "latitude": "40.789169",
+            "needs_recoding": false,
+            "longitude": "-73.952743"
+        },
+        "marketname": "Mount Sinai Hospital Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "4th Ave bet 59th & 60th Sts",
+        "open_year_round": "No",
+        "seasondates": "7/11 to 11/21",
+        "latitude": "40.641435",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-74.017815",
+        "location_point": {
+            "latitude": "40.641435",
+            "needs_recoding": false,
+            "longitude": "-74.017815"
+        },
+        "marketname": "4th Ave Sunset Park Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Cortelyou & Rugby Rds",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.640825",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.965301",
+        "location_point": {
+            "latitude": "40.640825",
+            "needs_recoding": false,
+            "longitude": "-73.965301"
+        },
+        "marketname": "Cortelyou Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "681 Clarkson Ave.",
+        "open_year_round": "No",
+        "seasondates": "06/24/2020-11/04/2020",
+        "latitude": "40.656255",
+        "hoursoperations": "2pm-5:30pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.936608",
+        "location_point": {
+            "latitude": "40.656255",
+            "needs_recoding": false,
+            "longitude": "-73.936608"
+        },
+        "marketname": "Urban Oasis Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Westchester Ave & White Plains Rd",
+        "open_year_round": "No",
+        "seasondates": "6/12 to 11/27",
+        "latitude": "40.833992",
+        "hoursoperations": "8am - 4pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.862148",
+        "location_point": {
+            "latitude": "40.833992",
+            "needs_recoding": false,
+            "longitude": "-73.862148"
+        },
+        "marketname": "Parkchester Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "241st and 144st Road, Laurelton NY",
+        "open_year_round": "No",
+        "seasondates": "8/15/2020-10/31/20",
+        "latitude": "40.668918",
+        "hoursoperations": "10am-2pm",
+        "daysoperation": "Saturday-Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.751335",
+        "location_point": {
+            "latitude": "40.668918",
+            "needs_recoding": false,
+            "longitude": "-73.751335"
+        },
+        "marketname": "The Laurelton Farmers Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "14th Ave bet 49th & 50th Sts",
+        "open_year_round": "No",
+        "seasondates": "7/2 to 10/08",
+        "latitude": "40.633696",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.989916",
+        "location_point": {
+            "latitude": "40.633696",
+            "needs_recoding": false,
+            "longitude": "-73.989916"
+        },
+        "marketname": "Borough Park Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Church & Fulton Sts., on Oculus Plaza",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Temporarily Closed due to COVID)",
+        "latitude": "40.711535",
+        "hoursoperations": "7am-7pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-74.010464",
+        "location_point": {
+            "latitude": "40.711535",
+            "needs_recoding": false,
+            "longitude": "-74.010464"
+        },
+        "marketname": "Greenmarket at Oculus Plaza",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "213 Osborn Street",
+        "open_year_round": "No",
+        "seasondates": "6/12/20-9/30/20",
+        "latitude": "40.667377",
+        "hoursoperations": "2pm-4:30pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.908214",
+        "location_point": {
+            "latitude": "40.667377",
+            "needs_recoding": false,
+            "longitude": "-73.908214"
+        },
+        "marketname": "Seeds in the Middle Fresh Food Box / Farmstand - Brownsville",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 99th St & 3rd Ave",
+        "open_year_round": "No",
+        "seasondates": "6/17/2020-11/20/2020",
+        "latitude": "40.78712",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.947923",
+        "location_point": {
+            "latitude": "40.78712",
+            "needs_recoding": false,
+            "longitude": "-73.947923"
+        },
+        "marketname": "Harvest Home Metropolitan Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "1400 Pelham Pkwy S, at Eastchester Rd",
+        "open_year_round": "No",
+        "seasondates": "7/10/2020-11/19/2020",
+        "latitude": "40.857427",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.847079",
+        "location_point": {
+            "latitude": "40.857427",
+            "needs_recoding": false,
+            "longitude": "-73.847079"
+        },
+        "marketname": "Harvest Home Jacobi Hospital Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "93 New Lots Ave., inside greenhouse",
+        "open_year_round": "No",
+        "seasondates": "11/07/2020-12/19/2020",
+        "latitude": "40.657984",
+        "hoursoperations": "8am-1pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.901764",
+        "location_point": {
+            "latitude": "40.657984",
+            "needs_recoding": false,
+            "longitude": "-73.901764"
+        },
+        "marketname": "Isabahlia Farm Stand Winter Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E. 14th. St. Loop & Avenue A, in the Oval",
+        "open_year_round": "No",
+        "seasondates": "5/17 to 12/20",
+        "latitude": "40.730443",
+        "hoursoperations": "9:30am - 4pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.980339",
+        "location_point": {
+            "latitude": "40.730443",
+            "needs_recoding": false,
+            "longitude": "-73.980339"
+        },
+        "marketname": "Stuyvesant Town Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "114-02 Guy R Brewer Blvd",
+        "open_year_round": "No",
+        "seasondates": "TBD",
+        "latitude": "40.688615",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "No",
+        "borough": "Queens",
+        "longitude": "-73.785593",
+        "location_point": {
+            "latitude": "40.688615",
+            "needs_recoding": false,
+            "longitude": "-73.785593"
+        },
+        "marketname": "Guy R Brewer Boulevard Farmers Market at NYC Health + Hospitals/Queens",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 97th St bet Columbus & Amsterdam Aves",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.793558",
+        "hoursoperations": "8am - 2pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.967016",
+        "location_point": {
+            "latitude": "40.793558",
+            "needs_recoding": false,
+            "longitude": "-73.967016"
+        },
+        "marketname": "97th Street Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Lenox Ave bet W 117th & 118th Sts",
+        "open_year_round": "No",
+        "seasondates": "6/27/2020-11/21/2020",
+        "latitude": "40.802699",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.949186",
+        "location_point": {
+            "latitude": "40.802699",
+            "needs_recoding": false,
+            "longitude": "-73.949186"
+        },
+        "marketname": "Harvest Home Lenox Ave Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "260 W 231st St",
+        "open_year_round": "No",
+        "seasondates": "July",
+        "latitude": "40.880038",
+        "hoursoperations": "9am-5pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.907005",
+        "location_point": {
+            "latitude": "40.880038",
+            "needs_recoding": false,
+            "longitude": "-73.907005"
+        },
+        "marketname": "Kingsbridge-Riverdale Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "134-20 Jamaica Ave.",
+        "open_year_round": "No",
+        "seasondates": "7/15/2020-11/23/2020",
+        "latitude": "40.702445",
+        "hoursoperations": "10am-3pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.816861",
+        "location_point": {
+            "latitude": "40.702445",
+            "needs_recoding": false,
+            "longitude": "-73.816861"
+        },
+        "marketname": "Queens County Farm Museum Farm Stand at Jamaica Hospital",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Schenck Ave bet New Lots & Livonia Aves",
+        "open_year_round": "No",
+        "seasondates": "06/27/2020-11/14/2020",
+        "latitude": "40.665296",
+        "hoursoperations": "9am-3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.886557",
+        "location_point": {
+            "latitude": "40.665296",
+            "needs_recoding": false,
+            "longitude": "-73.886557"
+        },
+        "marketname": "East New York Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "301 Prospect Ave",
+        "open_year_round": "No",
+        "seasondates": "07/06/2020-11/20/2020",
+        "latitude": "40.638983",
+        "hoursoperations": "11am-2pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Staten Island",
+        "longitude": "-74.097422",
+        "location_point": {
+            "latitude": "40.638983",
+            "needs_recoding": false,
+            "longitude": "-74.097422"
+        },
+        "marketname": "Goodhue Center Go!Healthy Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 57th St & 10th Ave",
+        "open_year_round": "No",
+        "seasondates": "6/6 to 11/25",
+        "latitude": "40.769117",
+        "hoursoperations": "8am-5pm",
+        "daysoperation": "Wednesday\nSaturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.988559",
+        "location_point": {
+            "latitude": "40.769117",
+            "needs_recoding": false,
+            "longitude": "-73.988559"
+        },
+        "marketname": "57th Street Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "73-50 Little Neck Pkwy",
+        "open_year_round": "No",
+        "seasondates": "7/8/2020\u2013 11/1/2020)",
+        "latitude": "40.748163",
+        "hoursoperations": "11am-3pm (weekends); 11am-5pm",
+        "daysoperation": "Wednesday, Thursday, Friday; Saturday and Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.719431",
+        "location_point": {
+            "latitude": "40.748163",
+            "needs_recoding": false,
+            "longitude": "-73.719431"
+        },
+        "marketname": "Queens County Farm Museum Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 115th St & 3rd Ave",
+        "open_year_round": "No",
+        "seasondates": "07/01/20-11/18/20 estimate",
+        "latitude": "40.797261",
+        "hoursoperations": "9am-4pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.940519",
+        "location_point": {
+            "latitude": "40.797261",
+            "needs_recoding": false,
+            "longitude": "-73.940519"
+        },
+        "marketname": "PS 57 Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Grand Concourse bet E 161st & 162nd Sts",
+        "open_year_round": "No",
+        "seasondates": "6/2 to 11/24",
+        "latitude": "40.826835",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.922621",
+        "location_point": {
+            "latitude": "40.826835",
+            "needs_recoding": false,
+            "longitude": "-73.922621"
+        },
+        "marketname": "Bronx Borough Hall Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "81st St & 18th Ave",
+        "open_year_round": "No",
+        "seasondates": "5/31 to 11/29",
+        "latitude": "40.609951",
+        "hoursoperations": "9am - 4pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.999456",
+        "location_point": {
+            "latitude": "40.609951",
+            "needs_recoding": false,
+            "longitude": "-73.999456"
+        },
+        "marketname": "Bensonhurst Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Court & Montague Sts",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Thursday temporarily closed for COVID)",
+        "latitude": "40.693722",
+        "hoursoperations": "8am - 5pm",
+        "daysoperation": "Tuesday \nThursday\nSaturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.990455",
+        "location_point": {
+            "latitude": "40.693722",
+            "needs_recoding": false,
+            "longitude": "-73.990455"
+        },
+        "marketname": "Brooklyn Borough Hall Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Cook St & Graham Ave",
+        "open_year_round": "No",
+        "seasondates": "8/8/2020-10/31/2020",
+        "latitude": "40.702345",
+        "hoursoperations": "9am-5pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.942381",
+        "location_point": {
+            "latitude": "40.702345",
+            "needs_recoding": false,
+            "longitude": "-73.942381"
+        },
+        "marketname": "Graham Avenue Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "1965-1971 Fulton St",
+        "open_year_round": "No",
+        "seasondates": "07/11/2020-11/21/2020",
+        "latitude": "40.678562",
+        "hoursoperations": "9am-2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-0.0000797039815960231",
+        "location_point": {
+            "latitude": "40.678562",
+            "needs_recoding": false,
+            "longitude": "-0.000079703981596"
+        },
+        "marketname": "Saratoga Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "2900 Southern Blvd.",
+        "open_year_round": "No",
+        "seasondates": "July 2020-10/28/2020",
+        "latitude": "40.865684",
+        "hoursoperations": "10am-3pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.883312",
+        "location_point": {
+            "latitude": "40.865684",
+            "needs_recoding": false,
+            "longitude": "-73.883312"
+        },
+        "marketname": "Morning Glory Market at the New York Botanical Gardens",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 192 St & Grand Concourse",
+        "open_year_round": "No",
+        "seasondates": "6/30 to 11/24",
+        "latitude": "40.864216",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.895795",
+        "location_point": {
+            "latitude": "40.864216",
+            "needs_recoding": false,
+            "longitude": "-73.895795"
+        },
+        "marketname": "Poe Park Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Washington Park bet Dekalb Ave & Willoughby St",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.691707",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.973539",
+        "location_point": {
+            "latitude": "40.691707",
+            "needs_recoding": false,
+            "longitude": "-73.973539"
+        },
+        "marketname": "Fort Greene Park Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Rockaway Ave. & Livonia Ave.",
+        "open_year_round": "No",
+        "seasondates": "09/01/2020-11/20/2020",
+        "latitude": "40.662555",
+        "hoursoperations": "8 a.m. - 5 p.m.",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.90892",
+        "location_point": {
+            "latitude": "40.662555",
+            "needs_recoding": false,
+            "longitude": "-73.90892"
+        },
+        "marketname": "Project EATS Rockaway Farm Stand & CSA pickup",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "323 Beach 74th Street",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.59129",
+        "hoursoperations": "9am-2pm",
+        "daysoperation": "Saturday & Sunday",
+        "accepts_ebt": "No",
+        "borough": "Queens",
+        "longitude": "-73.802314",
+        "location_point": {
+            "latitude": "40.59129",
+            "needs_recoding": false,
+            "longitude": "-73.802314"
+        },
+        "marketname": "Edgemere Farm Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "1919 Prospect Ave.",
+        "open_year_round": "No",
+        "seasondates": "07/06/2020-11/20/2020",
+        "latitude": "40.843546",
+        "hoursoperations": "12 - 2p.m.",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.889755",
+        "location_point": {
+            "latitude": "40.843546",
+            "needs_recoding": false,
+            "longitude": "-73.889755"
+        },
+        "marketname": "Whitney Young, Jr. Campus Go!Healthy Food Box",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Broadway & Flushing Ave",
+        "open_year_round": "No",
+        "seasondates": "2020-07-01T00:00:00.000",
+        "latitude": "40.700726",
+        "hoursoperations": "9am-2pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.941932",
+        "location_point": {
+            "latitude": "40.700726",
+            "needs_recoding": false,
+            "longitude": "-73.941932"
+        },
+        "marketname": "Woodhull Hospital Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 149th St & Eagle Ave",
+        "open_year_round": "No",
+        "seasondates": "7/9/2020-11/19/2020",
+        "latitude": "40.813884",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.911812",
+        "location_point": {
+            "latitude": "40.813884",
+            "needs_recoding": false,
+            "longitude": "-73.911812"
+        },
+        "marketname": "Harvest Home St. Mary's Park Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "410 Livonia Ave",
+        "open_year_round": "No",
+        "seasondates": "06/30/2020-10/31/2020",
+        "latitude": "40.663532",
+        "hoursoperations": "8am-3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.902236",
+        "location_point": {
+            "latitude": "40.663532",
+            "needs_recoding": false,
+            "longitude": "-73.902236"
+        },
+        "marketname": "Isabahlia Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Clarkson Ave bet E 37th & 38th Sts",
+        "open_year_round": "No",
+        "seasondates": "6/17/2020-11/25/2020",
+        "latitude": "40.655828",
+        "hoursoperations": "8am-6pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.943355",
+        "location_point": {
+            "latitude": "40.655828",
+            "needs_recoding": false,
+            "longitude": "-73.943355"
+        },
+        "marketname": "Harvest Home Kings County Hospital Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "115 Essex St.",
+        "open_year_round": "No",
+        "seasondates": "09/01/2020-11/20/2020",
+        "latitude": "40.719322",
+        "hoursoperations": "10:30 a.m. - 6 p.m.",
+        "daysoperation": "Saturday",
+        "borough": "Manhattan",
+        "longitude": "-73.987817",
+        "location_point": {
+            "latitude": "40.719322",
+            "needs_recoding": false,
+            "longitude": "-73.987817"
+        },
+        "marketname": "Essex Crossing Farm Stand & CSA pickup",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 17th St & Union Square W",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.737133",
+        "hoursoperations": "8am - 6pm",
+        "daysoperation": "Monday \nWednesday\nFriday\nSaturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.990329",
+        "location_point": {
+            "latitude": "40.737133",
+            "needs_recoding": false,
+            "longitude": "-73.990329"
+        },
+        "marketname": "Union Square Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Broadway & Battery Pl",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Temporarily Closed due to COVID)",
+        "latitude": "40.704549",
+        "hoursoperations": "8am - 5pm",
+        "daysoperation": "Tuesday\nThursday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-74.01429",
+        "location_point": {
+            "latitude": "40.704549",
+            "needs_recoding": false,
+            "longitude": "-74.01429"
+        },
+        "marketname": "Bowling Green Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 92nd St & 1st Ave",
+        "open_year_round": "No",
+        "seasondates": "6/21 to 11/22",
+        "latitude": "40.780691",
+        "hoursoperations": "9am-4pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.946592",
+        "location_point": {
+            "latitude": "40.780691",
+            "needs_recoding": false,
+            "longitude": "-73.946592"
+        },
+        "marketname": "92nd Street Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Asch Loop & Aldrich St",
+        "open_year_round": "No",
+        "seasondates": "6/17/2020-11/25/2020",
+        "latitude": "40.870249",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.830963",
+        "location_point": {
+            "latitude": "40.870249",
+            "needs_recoding": false,
+            "longitude": "-73.830963"
+        },
+        "marketname": "Harvest Home Co-op City Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Fulton & Richmond Sts",
+        "open_year_round": "No",
+        "seasondates": "7/10/20-11/20/20 estimate",
+        "latitude": "40.682391",
+        "hoursoperations": "10am-5pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.876616",
+        "location_point": {
+            "latitude": "40.682391",
+            "needs_recoding": false,
+            "longitude": "-73.876616"
+        },
+        "marketname": "Cypress Hills Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Isham St bet Seaman Ave & Cooper St",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.869001",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.920896",
+        "location_point": {
+            "latitude": "40.869001",
+            "needs_recoding": false,
+            "longitude": "-73.920896"
+        },
+        "marketname": "Inwood Park Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "3703 10th Ave",
+        "open_year_round": "No",
+        "seasondates": "07/06/2020-11/20/2020",
+        "latitude": "40.85899",
+        "hoursoperations": "10am - 2pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.922894",
+        "location_point": {
+            "latitude": "40.85899",
+            "needs_recoding": false,
+            "longitude": "-73.922894"
+        },
+        "marketname": "PS 5 Go!Healthy Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 145th St bet Edgecombe & Bradhurst Aves, at Jackie Robinson Park",
+        "open_year_round": "No",
+        "seasondates": "07/02/2020-11/28/2020",
+        "latitude": "40.823647",
+        "hoursoperations": "9am-4pm",
+        "daysoperation": "Tuesday\nSaturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.943844",
+        "location_point": {
+            "latitude": "40.823647",
+            "needs_recoding": false,
+            "longitude": "-73.943844"
+        },
+        "marketname": "Grass Roots Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "240 Nostrand Avenue",
+        "open_year_round": "No",
+        "seasondates": "5/28/20-9/30/20",
+        "latitude": "40.691804",
+        "hoursoperations": "1pm-7pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.951863",
+        "location_point": {
+            "latitude": "40.691804",
+            "needs_recoding": false,
+            "longitude": "-73.951863"
+        },
+        "marketname": "Seeds in the Middle Fresh Food Box / Farmstand - Flatbush",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "4 South St, inside terminal",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Temporarily Closed due to COVID)",
+        "latitude": "40.701687901075",
+        "hoursoperations": "8am - 7pm",
+        "daysoperation": "Tuesday\nFriday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-74.011631125861",
+        "location_point": {
+            "latitude": "40.701687901075",
+            "needs_recoding": false,
+            "longitude": "-74.011631125861"
+        },
+        "marketname": "Staten Island Ferry Whitehall Terminal Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Cypress Ave bet Myrtle & Putnam Aves",
+        "open_year_round": "No",
+        "seasondates": "7/11/20-11/21/20 estimate",
+        "latitude": "40.700123",
+        "hoursoperations": "8:30am-3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.90621",
+        "location_point": {
+            "latitude": "40.700123",
+            "needs_recoding": false,
+            "longitude": "-73.90621"
+        },
+        "marketname": "Ridgewood Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Hyatt St & St Marks Pl",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.641586",
+        "hoursoperations": "8am - 2pm\n-1pm (winter)",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Staten Island",
+        "longitude": "-74.0779",
+        "location_point": {
+            "latitude": "40.641586",
+            "needs_recoding": false,
+            "longitude": "-74.0779"
+        },
+        "marketname": "St. George Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "1515 Southern Blvd",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.833734",
+        "hoursoperations": "11am-2pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.889934",
+        "location_point": {
+            "latitude": "40.833734",
+            "needs_recoding": false,
+            "longitude": "-73.889934"
+        },
+        "marketname": "Bronx Family Center Go!Healthy Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Astor Pl bet Broadway & Lafayette",
+        "open_year_round": "No",
+        "seasondates": "8/4 - 11/24",
+        "latitude": "40.730079",
+        "hoursoperations": "8 a.m. - 4 p.m.",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.992842",
+        "location_point": {
+            "latitude": "40.730079",
+            "needs_recoding": false,
+            "longitude": "-73.992842"
+        },
+        "marketname": "Astor Place Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "2094 Pitkin Ave.",
+        "open_year_round": "No",
+        "seasondates": "09/01/2020-11/20/2020",
+        "latitude": "40.671977",
+        "hoursoperations": "10 a.m. - 3 p.m.",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.895248",
+        "location_point": {
+            "latitude": "40.671977",
+            "needs_recoding": false,
+            "longitude": "-73.895248"
+        },
+        "marketname": "Brownsville/ENY - Health & Hospitals East New York",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 66th St & Broadway",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Closed 07/04/19 & 11/28/19 - open 11/27/19)",
+        "latitude": "40.773876",
+        "hoursoperations": "8am - 5pm",
+        "daysoperation": "Thursday \nSaturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.982226",
+        "location_point": {
+            "latitude": "40.773876",
+            "needs_recoding": false,
+            "longitude": "-73.982226"
+        },
+        "marketname": "Tucker Square Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Myrtle Ave & Park Lane South",
+        "open_year_round": "No",
+        "seasondates": "7/11/20-11/21/20 estimate",
+        "latitude": "40.700955",
+        "hoursoperations": "9:30am-3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.841426",
+        "location_point": {
+            "latitude": "40.700955",
+            "needs_recoding": false,
+            "longitude": "-73.841426"
+        },
+        "marketname": "Forest Park Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Ocean Pkwy bet Avenue Z & Shore Pkwy",
+        "open_year_round": "No",
+        "seasondates": "6/17/2020-11/25/2020",
+        "latitude": "40.58667",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.96615",
+        "location_point": {
+            "latitude": "40.58667",
+            "needs_recoding": false,
+            "longitude": "-73.96615"
+        },
+        "marketname": "Harvest Home Coney Island Hospital Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "215 Cooper St",
+        "open_year_round": "No",
+        "seasondates": "TBD",
+        "latitude": "40.689879",
+        "hoursoperations": "12pm-5pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.905298",
+        "location_point": {
+            "latitude": "40.689879",
+            "needs_recoding": false,
+            "longitude": "-73.905298"
+        },
+        "marketname": "RB Pop Up Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "545 E 142nd St",
+        "open_year_round": "No",
+        "seasondates": "07/06/2020-11/09/2020",
+        "latitude": "40.809973",
+        "hoursoperations": "9am-3pm",
+        "daysoperation": "Monday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.916434",
+        "location_point": {
+            "latitude": "40.809973",
+            "needs_recoding": false,
+            "longitude": "-73.916434"
+        },
+        "marketname": "Mott Haven Farmers Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Lenox Ave bet 135th & 137th Sts",
+        "open_year_round": "No",
+        "seasondates": "7/10/2020-11/20/2020",
+        "latitude": "40.814358",
+        "hoursoperations": "8am-6pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.940659",
+        "location_point": {
+            "latitude": "40.814358",
+            "needs_recoding": false,
+            "longitude": "-73.940659"
+        },
+        "marketname": "Harvest Home Harlem Hospital Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "49 Van Buren St",
+        "open_year_round": "No",
+        "seasondates": "07/11/2020-11/21/2020",
+        "latitude": "40.690036",
+        "hoursoperations": "1pm-6pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.943557",
+        "location_point": {
+            "latitude": "40.690036",
+            "needs_recoding": false,
+            "longitude": "-73.943557"
+        },
+        "marketname": "Hattie Carthan After Church Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "2163 Dean Street",
+        "open_year_round": "Yes",
+        "seasondates": "Year-round",
+        "latitude": "40.675024",
+        "hoursoperations": "12:30-3:30pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.915778",
+        "location_point": {
+            "latitude": "40.675024",
+            "needs_recoding": false,
+            "longitude": "-73.915778"
+        },
+        "marketname": "Seeds in the Middle Fresh Food Box / Farmstand - Ocean Hill- Brownsville Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 149th St bet Park & Morris Aves",
+        "open_year_round": "No",
+        "seasondates": "6/26/20-11/20/20",
+        "latitude": "40.818013",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Tuesday \nFriday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.925185",
+        "location_point": {
+            "latitude": "40.818013",
+            "needs_recoding": false,
+            "longitude": "-73.925185"
+        },
+        "marketname": "Lincoln Hospital Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "82 Dahlia Ave",
+        "open_year_round": "No",
+        "seasondates": "6/12/2020-11/27/2020",
+        "latitude": "40.75186",
+        "hoursoperations": "8:30am - 4pm",
+        "daysoperation": "Friday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.826362",
+        "location_point": {
+            "latitude": "40.75186",
+            "needs_recoding": false,
+            "longitude": "-73.826362"
+        },
+        "marketname": "Queens Botanical Garden's Down to Earth Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "95th St & 3rd Ave",
+        "open_year_round": "No",
+        "seasondates": "5/2 to 11/21",
+        "latitude": "40.617278",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-74.033588",
+        "location_point": {
+            "latitude": "40.617278",
+            "needs_recoding": false,
+            "longitude": "-74.033588"
+        },
+        "marketname": "Bay Ridge Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Mosholu Pkwy & Jerome Ave",
+        "open_year_round": "No",
+        "seasondates": "6/17/2020-11/25/2020",
+        "latitude": "40.879749",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.884661",
+        "location_point": {
+            "latitude": "40.879749",
+            "needs_recoding": false,
+            "longitude": "-73.884661"
+        },
+        "marketname": "Harvest Home North Central Bronx Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "5816 Clarendon Rd",
+        "open_year_round": "No",
+        "seasondates": "6/20/2020-10/30/2020",
+        "latitude": "40.64497",
+        "hoursoperations": "11am-4pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "No",
+        "borough": "Brooklyn",
+        "longitude": "-73.920914",
+        "location_point": {
+            "latitude": "40.64497",
+            "needs_recoding": false,
+            "longitude": "-73.920914"
+        },
+        "marketname": "Wyckoff House Museum Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Nostrand & Flatbush Aves",
+        "open_year_round": "No",
+        "seasondates": "07/11/20-11/21/20 estimate",
+        "latitude": "40.632886",
+        "hoursoperations": "9am-2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.947698",
+        "location_point": {
+            "latitude": "40.632886",
+            "needs_recoding": false,
+            "longitude": "-73.947698"
+        },
+        "marketname": "Flatbush Junction Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Grand Ave bet Pitt & Willet Sts",
+        "open_year_round": "No",
+        "latitude": "40.714932",
+        "hoursoperations": "8am-3pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.983338",
+        "location_point": {
+            "latitude": "40.714932",
+            "needs_recoding": false,
+            "longitude": "-73.983338"
+        },
+        "marketname": "Lower East Side Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 168th St & Ft Washington Ave",
+        "open_year_round": "No",
+        "seasondates": "6/2 to 11/24",
+        "latitude": "40.842154",
+        "hoursoperations": "8am - 4pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.942278",
+        "location_point": {
+            "latitude": "40.842154",
+            "needs_recoding": false,
+            "longitude": "-73.942278"
+        },
+        "marketname": "Fort Washington Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 21st St bet 8th & 9th Aves",
+        "open_year_round": "No",
+        "seasondates": "06/03/2020-11/11/2020",
+        "latitude": "40.744006",
+        "hoursoperations": "8am-10am",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.999415",
+        "location_point": {
+            "latitude": "40.744006",
+            "needs_recoding": false,
+            "longitude": "-73.999415"
+        },
+        "marketname": "PS 11 Farm Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "15 River St",
+        "open_year_round": "No",
+        "seasondates": "7/12/2020- 11/29/2020",
+        "latitude": "40.715385",
+        "hoursoperations": "8am - 3pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.967441",
+        "location_point": {
+            "latitude": "40.715385",
+            "needs_recoding": false,
+            "longitude": "-73.967441"
+        },
+        "marketname": "Domino Park Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Orloff Ave & Gale Pl",
+        "open_year_round": "No",
+        "seasondates": "07/08/2020-10/28/2020",
+        "latitude": "40.884532",
+        "hoursoperations": "1-6:30pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.892172",
+        "location_point": {
+            "latitude": "40.884532",
+            "needs_recoding": false,
+            "longitude": "-73.892172"
+        },
+        "marketname": "Van Cortlandt Park Alliance Amalgamated Housing Youth Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "McDonald Ave & Albemarle Rd",
+        "open_year_round": "No",
+        "seasondates": "07/11/20-11/21/20 estimate",
+        "latitude": "40.64511",
+        "hoursoperations": "8:30am-3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.979882",
+        "location_point": {
+            "latitude": "40.64511",
+            "needs_recoding": false,
+            "longitude": "-73.979882"
+        },
+        "marketname": "Kensington Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "37-18 Northern Blvd (Roof)",
+        "open_year_round": "No",
+        "seasondates": "6/13/2020-10/24/2020",
+        "latitude": "40.752096",
+        "hoursoperations": "10am-4pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.925887",
+        "location_point": {
+            "latitude": "40.752096",
+            "needs_recoding": false,
+            "longitude": "-73.925887"
+        },
+        "marketname": "Brooklyn Grange Farm Stand at Long Island City",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "4545 Independence Ave. (Riverdale Temple Parking Lot)",
+        "open_year_round": "No",
+        "seasondates": "6/14/2020-11/22/2020",
+        "latitude": "40.891762",
+        "hoursoperations": "9am-2pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "No",
+        "borough": "Bronx",
+        "longitude": "-73.912208",
+        "location_point": {
+            "latitude": "40.891762",
+            "needs_recoding": false,
+            "longitude": "-73.912208"
+        },
+        "marketname": "Riverdale Y Sunday Farmers Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 163rd St & Hunts Point Ave",
+        "open_year_round": "No",
+        "seasondates": "6/17/2020-11/25/2020",
+        "latitude": "40.820986",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.891613",
+        "location_point": {
+            "latitude": "40.820986",
+            "needs_recoding": false,
+            "longitude": "-73.891613"
+        },
+        "marketname": "Harvest Home Hunts Point Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 82nd St bet 1st & York Aves",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.774292",
+        "hoursoperations": "9am - 2:30pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.951262",
+        "location_point": {
+            "latitude": "40.774292",
+            "needs_recoding": false,
+            "longitude": "-73.951262"
+        },
+        "marketname": "82nd Street Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "41st Ave bet 80th & 81st Sts",
+        "open_year_round": "No",
+        "seasondates": "6/2 to 11/24",
+        "latitude": "40.745794",
+        "hoursoperations": "8am - 4pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.885489",
+        "location_point": {
+            "latitude": "40.745794",
+            "needs_recoding": false,
+            "longitude": "-73.885489"
+        },
+        "marketname": "Elmhurst Hospital Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "4th St & 5th Ave",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.672194",
+        "hoursoperations": "10am-4pm (winter closes at 3pm)",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.983785",
+        "location_point": {
+            "latitude": "40.672194",
+            "needs_recoding": false,
+            "longitude": "-73.983785"
+        },
+        "marketname": "Park Slope's Down to Earth Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "W 23rd St bet 8th & 9th Aves",
+        "open_year_round": "No",
+        "seasondates": "06/06/2020-12/20/2020",
+        "latitude": "40.745293",
+        "hoursoperations": "9am-4pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.998488",
+        "location_point": {
+            "latitude": "40.745293",
+            "needs_recoding": false,
+            "longitude": "-73.998488"
+        },
+        "marketname": "Chelsea's Down to Earth Farmers Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Pitkin Ave & Thomas Boyland St",
+        "open_year_round": "No",
+        "seasondates": "07/11/20-11/21/20 (estimate)",
+        "latitude": "40.669264",
+        "hoursoperations": "9am-2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.913554",
+        "location_point": {
+            "latitude": "40.669264",
+            "needs_recoding": false,
+            "longitude": "-73.913554"
+        },
+        "marketname": "Brownsville Pitkin Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Prospect Park W & 15th St",
+        "open_year_round": "Yes",
+        "seasondates": "Wednesday: Year-Round (Closed 12/25/19 & 1/1/20); \nSunday: 05/05/19-12/22/19",
+        "latitude": "40.661154",
+        "hoursoperations": "W: 8am - 3pm; S: 9am-3pm",
+        "daysoperation": "Wednesday \nSunday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.980172",
+        "location_point": {
+            "latitude": "40.661154",
+            "needs_recoding": false,
+            "longitude": "-73.980172"
+        },
+        "marketname": "Bartel-Pritchard Square Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Marcy Ave & Clifton Pl",
+        "open_year_round": "No",
+        "seasondates": "08/02/2020-11/22/2020",
+        "latitude": "40.689511",
+        "hoursoperations": "9am-3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.948039",
+        "location_point": {
+            "latitude": "40.689511",
+            "needs_recoding": false,
+            "longitude": "-73.948039"
+        },
+        "marketname": "Hattie Carthan Community Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "670 Grand Concourse (153rd & Grand Concourse)",
+        "open_year_round": "No",
+        "seasondates": "07/07/2020-10/27/2020",
+        "latitude": "40.821403",
+        "hoursoperations": "3pm-7pm",
+        "daysoperation": "Tuesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.925528",
+        "location_point": {
+            "latitude": "40.821403",
+            "needs_recoding": false,
+            "longitude": "-73.925528"
+        },
+        "marketname": "New Roots Community Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Lenox Ave bet W 141st & W 142nd Sts",
+        "open_year_round": "No",
+        "seasondates": "6/13/2020-11/28/2020",
+        "latitude": "40.8179",
+        "hoursoperations": "9am- 4pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.93809",
+        "location_point": {
+            "latitude": "40.8179",
+            "needs_recoding": false,
+            "longitude": "-73.93809"
+        },
+        "marketname": "Savoy Park Down to Earth Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "1130 Grand Concourse",
+        "open_year_round": "No",
+        "seasondates": "07/09/2020-11/12/2020",
+        "latitude": "40.832331",
+        "hoursoperations": "10am-4pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.91959",
+        "location_point": {
+            "latitude": "40.832331",
+            "needs_recoding": false,
+            "longitude": "-73.91959"
+        },
+        "marketname": "BronxWorks Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "6200 Beach Channel Dr",
+        "open_year_round": "No",
+        "seasondates": "08/01/2020-11/21/2020",
+        "latitude": "40.593313",
+        "hoursoperations": "8am-2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "No",
+        "borough": "Queens",
+        "longitude": "-73.79166",
+        "location_point": {
+            "latitude": "40.593313",
+            "needs_recoding": false,
+            "longitude": "-73.79166"
+        },
+        "marketname": "Joseph Addabbo FHC Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Marsh Ave & Ring Rd",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.583804",
+        "hoursoperations": "9am - 2pm\n-1pm (winter)",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Staten Island",
+        "longitude": "-74.161245",
+        "location_point": {
+            "latitude": "40.583804",
+            "needs_recoding": false,
+            "longitude": "-74.161245"
+        },
+        "marketname": "Staten Island Mall Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Hudson St & W 12th St",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.737553",
+        "hoursoperations": "8am - 2pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-74.005687",
+        "location_point": {
+            "latitude": "40.737553",
+            "needs_recoding": false,
+            "longitude": "-74.005687"
+        },
+        "marketname": "Abingdon Square Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "104th St & 3rd Ave",
+        "open_year_round": "No",
+        "seasondates": "7/9/2020-11/19/2020",
+        "latitude": "40.790253",
+        "hoursoperations": "8am-4pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.945635",
+        "location_point": {
+            "latitude": "40.790253",
+            "needs_recoding": false,
+            "longitude": "-73.945635"
+        },
+        "marketname": "Harvest Home East Harlem Farmers' Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "310 Beach 58th St",
+        "open_year_round": "No",
+        "seasondates": "07/11/2020-11/21/2020",
+        "latitude": "40.594492",
+        "hoursoperations": "9am - 3pm",
+        "daysoperation": "Saturday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.788077",
+        "location_point": {
+            "latitude": "40.594492",
+            "needs_recoding": false,
+            "longitude": "-73.788077"
+        },
+        "marketname": "Rockaway Youth Task Force Youth Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Brooklyn Ave & Prospect Pl",
+        "open_year_round": "No",
+        "seasondates": "6/18/2020-11/19/2020",
+        "latitude": "40.674007",
+        "hoursoperations": "8am-3pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.944544",
+        "location_point": {
+            "latitude": "40.674007",
+            "needs_recoding": false,
+            "longitude": "-73.944544"
+        },
+        "marketname": "Harvest Home Brower Park Farm Stand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "E 169th St & Boston Rd, at McKinley Square",
+        "open_year_round": "No",
+        "seasondates": "07/01/20-11/18/20 possibly",
+        "latitude": "40.831117",
+        "hoursoperations": "10am-3pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Bronx",
+        "longitude": "-73.90071",
+        "location_point": {
+            "latitude": "40.831117",
+            "needs_recoding": false,
+            "longitude": "-73.90071"
+        },
+        "marketname": "Morrisania Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Taylor St & Lee Ave",
+        "open_year_round": "No",
+        "seasondates": "7/2 to 11/19",
+        "latitude": "40.706998",
+        "hoursoperations": "8am - 4pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.961364",
+        "location_point": {
+            "latitude": "40.706998",
+            "needs_recoding": false,
+            "longitude": "-73.961364"
+        },
+        "marketname": "South Williamsburg Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "249 Grove St",
+        "open_year_round": "No",
+        "seasondates": "9/16/2020 - November unclear date",
+        "latitude": "40.697175",
+        "hoursoperations": "9am-3pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Brooklyn",
+        "longitude": "-73.916878",
+        "location_point": {
+            "latitude": "40.697175",
+            "needs_recoding": false,
+            "longitude": "-73.916878"
+        },
+        "marketname": "RB HopeBall Field Farmers Market",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Madison St bet Clinton & Jefferson Sts",
+        "open_year_round": "No",
+        "seasondates": "07/2/20-11/19/20 estimate",
+        "latitude": "40.712905",
+        "hoursoperations": "9am-2pm",
+        "daysoperation": "Thursday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.986928",
+        "location_point": {
+            "latitude": "40.712905",
+            "needs_recoding": false,
+            "longitude": "-73.986928"
+        },
+        "marketname": "Gouverneur Health Farmstand",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Greenwich & Chambers Sts",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Wednesday temporarily Closed due to COVID)",
+        "latitude": "40.716303",
+        "hoursoperations": "8am-3pm",
+        "daysoperation": "Wednesday \nSaturday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-74.010966",
+        "location_point": {
+            "latitude": "40.716303",
+            "needs_recoding": false,
+            "longitude": "-74.010966"
+        },
+        "marketname": "Tribeca Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "70th Ave & Queens Blvd",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.72188",
+        "hoursoperations": "8am - 2pm",
+        "daysoperation": "Sunday",
+        "accepts_ebt": "Yes",
+        "borough": "Queens",
+        "longitude": "-73.846383",
+        "location_point": {
+            "latitude": "40.72188",
+            "needs_recoding": false,
+            "longitude": "-73.846383"
+        },
+        "marketname": "Forest Hills Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "Broadway & Chambers St",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round (Temporarily Closed due to COVID))",
+        "latitude": "40.714165",
+        "hoursoperations": "8am - 4pm",
+        "daysoperation": "Tuesday\nFriday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-74.006309",
+        "location_point": {
+            "latitude": "40.714165",
+            "needs_recoding": false,
+            "longitude": "-74.006309"
+        },
+        "marketname": "City Hall Greenmarket",
+        "kids": "No"
+    },
+    {
+        "nyc_dept_of_health_cooking": "No",
+        "streetaddress": "14-32 W 118th St",
+        "open_year_round": "Yes",
+        "seasondates": "Year-Round",
+        "latitude": "40.802317",
+        "hoursoperations": "3-5pm",
+        "daysoperation": "Wednesday",
+        "accepts_ebt": "Yes",
+        "borough": "Manhattan",
+        "longitude": "-73.946351",
+        "location_point": {
+            "latitude": "40.802317",
+            "needs_recoding": false,
+            "longitude": "-73.946351"
+        },
+        "marketname": "Milbank Center Go!Healthy Farm Stand",
+        "kids": "No"
+    }
+]

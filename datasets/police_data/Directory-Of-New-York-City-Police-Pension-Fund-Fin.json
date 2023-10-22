@@ -1,0 +1,86 @@
+[
+    {
+        "year": "2012",
+        "report_name": "Comprehensive Annual Financial Report",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/cafr2012.pdf"
+        }
+    },
+    {
+        "year": "2012",
+        "report_name": "Police Officers' Variable Supplement Fund",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/vposf2012.pdf"
+        }
+    },
+    {
+        "year": "2012",
+        "report_name": "Superior Officers' Variable Supplement Fund",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/vsfpo2012.pdf"
+        }
+    },
+    {
+        "year": "2011",
+        "report_name": "Comprehensive Annual Financial Report",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/cafr2011.pdf"
+        }
+    },
+    {
+        "year": "2011",
+        "report_name": "Police Officers' Variable Supplement Fund",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/vposf2011.pdf"
+        }
+    },
+    {
+        "year": "2011",
+        "report_name": "Superior Officers' Variable Supplement Fund",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/vsfpo2011.pdf"
+        }
+    },
+    {
+        "year": "2010",
+        "report_name": "Comprehensive Annual Financial Report",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/cafr2010.pdf"
+        }
+    },
+    {
+        "year": "2010",
+        "report_name": "Police Officers' Variable Supplement Fund",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/vposf2010.pdf"
+        }
+    },
+    {
+        "year": "2010",
+        "report_name": "Superior Officers' Variable Supplement Fund",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/vsfpo2010.pdf"
+        }
+    },
+    {
+        "year": "2009",
+        "report_name": "Comprehensive Annual Financial Report",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/cafr2009.pdf"
+        }
+    },
+    {
+        "year": "2009",
+        "report_name": "Police Officers' Variable Supplement Fund",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/vposf2009.pdf"
+        }
+    },
+    {
+        "year": "2009",
+        "report_name": "Superior Officers' Variable Supplement Fund",
+        "website_link": {
+            "url": "http://www.nyc.gov/html/nycppf/downloads/pdf/vsfpo2009.pdf"
+        }
+    }
+]

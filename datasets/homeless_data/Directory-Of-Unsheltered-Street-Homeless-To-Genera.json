@@ -1,0 +1,50 @@
+[
+    {
+        "location": {
+            "human_address": "{\"address\": \"\", \"city\": \"Chicago *\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "estimated_unsheltered_population": "1576",
+        "total_population": "2836658",
+        "ratio_of_unsheltered_homeless_to_general_population": "1 in 1,800 "
+    },
+    {
+        "location": {
+            "human_address": "{\"address\": \"\", \"city\": \"Miami-Dade County\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "estimated_unsheltered_population": "994",
+        "total_population": "2387170",
+        "ratio_of_unsheltered_homeless_to_general_population": "1 in 2,402 "
+    },
+    {
+        "location": {
+            "human_address": "{\"address\": \"\", \"city\": \"San Francisco *\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "estimated_unsheltered_population": "2771",
+        "total_population": "764976",
+        "ratio_of_unsheltered_homeless_to_general_population": "1 in 276 "
+    },
+    {
+        "location": {
+            "human_address": "{\"address\": \"\", \"city\": \"Seattle\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "estimated_unsheltered_population": "1976",
+        "total_population": "594210",
+        "ratio_of_unsheltered_homeless_to_general_population": "1 in 301 "
+    },
+    {
+        "location": {
+            "human_address": "{\"address\": \"\", \"city\": \"New York City\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "estimated_unsheltered_population": "2328",
+        "total_population": "8274527",
+        "ratio_of_unsheltered_homeless_to_general_population": "1 in 3,554 "
+    },
+    {
+        "location": {
+            "human_address": "{\"address\": \"\", \"city\": \"Los Angeles *\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "estimated_unsheltered_population": "40144",
+        "total_population": "3834340",
+        "ratio_of_unsheltered_homeless_to_general_population": "1 in 96 "
+    }
+]

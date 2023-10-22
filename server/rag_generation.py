@@ -10,11 +10,13 @@ pinecone.init(api_key="39e7f82b-83bf-4797-9281-0b76cb1e5b56",
               environment="us-west4-gcp-free")
 index = pinecone.Index("nychackathon")
 
+open_ai_api_key = os.getenv("OPENAI_API_KEY")
+
 
 def get_openai_embedding(text):
     api_url = "https://api.openai.com/v1/embeddings"
     headers = {
-        "Authorization": "Bearer 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",
+        "Authorization": f"Bearer {open_ai_api_key}",
         "Content-Type": "application/json"
     }
     data = {
@@ -54,18 +56,25 @@ def answer_nyc_question(question, k=3):
     results = index.query(queries=[query], top_k=k,
                           include_metadata=True, include_values=False)
     matched_articles = results['results'][0]['matches']
-    page_texts = []
-    websites = []
     try:
+        page_texts = []
+        websites = []
         for article in matched_articles:
             website = article['id']
             page_text = article['metadata']['page_text']
             page_texts.append(page_text)
             websites.append(website)
     except Exception as e:
-        print(f"An error occurred: {e}")
-        error_msg = "Sorry, I couldn't find an answer to this question on NYC's website. Please try asking in a different way."
-        return error_msg
+        try:
+            page_texts = []
+            websites = []
+            for article in matched_articles[0]:
+                website = article['id']
+                page_text = article['metadata']['page_text']
+                page_texts.append(page_text)
+                websites.append(website)
+        except Exception as e:
+            return "Sorry, I don't know the answer to that."
 
     combined_contexts = "\n\n---\n\n".join(page_texts)
 

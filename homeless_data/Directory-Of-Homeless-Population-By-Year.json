@@ -1,0 +1,162 @@
+[
+    {
+        "year": "2012",
+        "area": "Surface Area - Manhattan ",
+        "homeless_estimates": "906"
+    },
+    {
+        "year": "2012",
+        "area": "Total Unsheltered Individuals ",
+        "homeless_estimates": "3262"
+    },
+    {
+        "year": "2012",
+        "area": "Subways ",
+        "homeless_estimates": "1634"
+    },
+    {
+        "year": "2012",
+        "area": "Surface Total ",
+        "homeless_estimates": "1628"
+    },
+    {
+        "year": "2012",
+        "area": "Surface Area - Staten Island ",
+        "homeless_estimates": "99"
+    },
+    {
+        "year": "2012",
+        "area": "Surface Area - Queens ",
+        "homeless_estimates": "86"
+    },
+    {
+        "year": "2012",
+        "area": "Surface Area - Brooklyn ",
+        "homeless_estimates": "368"
+    },
+    {
+        "year": "2012",
+        "area": "Surface Area - Bronx ",
+        "homeless_estimates": "169"
+    },
+    {
+        "year": "2011",
+        "area": "Surface Area - Manhattan ",
+        "homeless_estimates": "786"
+    },
+    {
+        "year": "2011",
+        "area": "Surface Area - Bronx ",
+        "homeless_estimates": "115"
+    },
+    {
+        "year": "2011",
+        "area": "Surface Area - Brooklyn ",
+        "homeless_estimates": "242"
+    },
+    {
+        "year": "2011",
+        "area": "Surface Area - Queens ",
+        "homeless_estimates": "102"
+    },
+    {
+        "year": "2011",
+        "area": "Surface Area - Staten Island ",
+        "homeless_estimates": "128"
+    },
+    {
+        "year": "2011",
+        "area": "Surface Total ",
+        "homeless_estimates": "1373"
+    },
+    {
+        "year": "2011",
+        "area": "Subways ",
+        "homeless_estimates": "1275"
+    },
+    {
+        "year": "2011",
+        "area": "Total Unsheltered Individuals ",
+        "homeless_estimates": "2648"
+    },
+    {
+        "year": "2010",
+        "area": "Total Unsheltered Individuals ",
+        "homeless_estimates": "3111"
+    },
+    {
+        "year": "2010",
+        "area": "Surface Area - Manhattan ",
+        "homeless_estimates": "1145"
+    },
+    {
+        "year": "2010",
+        "area": "Surface Area - Bronx ",
+        "homeless_estimates": "174"
+    },
+    {
+        "year": "2010",
+        "area": "Surface Area - Brooklyn ",
+        "homeless_estimates": "428"
+    },
+    {
+        "year": "2010",
+        "area": "Surface Area - Queens ",
+        "homeless_estimates": "112"
+    },
+    {
+        "year": "2010",
+        "area": "Surface Area - Staten Island ",
+        "homeless_estimates": "175"
+    },
+    {
+        "year": "2010",
+        "area": "Surface Total ",
+        "homeless_estimates": "2034"
+    },
+    {
+        "year": "2010",
+        "area": "Subways ",
+        "homeless_estimates": "1077"
+    },
+    {
+        "year": "2009",
+        "area": "Surface Area - Manhattan ",
+        "homeless_estimates": "777"
+    },
+    {
+        "year": "2009",
+        "area": "Total Unsheltered Individuals ",
+        "homeless_estimates": "2328"
+    },
+    {
+        "year": "2009",
+        "area": "Subways ",
+        "homeless_estimates": "968"
+    },
+    {
+        "year": "2009",
+        "area": "Surface Total ",
+        "homeless_estimates": "1360"
+    },
+    {
+        "year": "2009",
+        "area": "Surface Area - Staten Island ",
+        "homeless_estimates": "121"
+    },
+    {
+        "year": "2009",
+        "area": "Surface Area - Queens ",
+        "homeless_estimates": "98"
+    },
+    {
+        "year": "2009",
+        "area": "Surface Area - Brooklyn ",
+        "homeless_estimates": "200"
+    },
+    {
+        "year": "2009",
+        "area": "Surface Area - Bronx ",
+        "homeless_estimates": "164"
+    }
+]

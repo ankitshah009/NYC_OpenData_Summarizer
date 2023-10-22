@@ -1,0 +1,382 @@
+[
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.98109555019138,
+                40.68985092532933
+            ]
+        },
+        "boro_code": "3",
+        "boro_name": "Brooklyn",
+        "boro_cd": "302",
+        "coun_dist": "35",
+        "assem_dist": "57",
+        "st_sen_dist": "26",
+        "cong_dist": "7",
+        "location": "Dekalb Ave & Flatbush Ave",
+        "shelter_id": "BS1001",
+        "street": "DEKALB AVENUE",
+        "ntaname": "Fort Greene",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.94451215478905,
+                40.71471230203185
+            ]
+        },
+        "boro_code": "3",
+        "boro_name": "Brooklyn",
+        "boro_cd": "301",
+        "coun_dist": "34",
+        "assem_dist": "50",
+        "st_sen_dist": "18",
+        "cong_dist": "7",
+        "location": "Grahan Ave & Metropolitan Ave",
+        "shelter_id": "BS1003",
+        "street": "GRAHAM AVENUE",
+        "ntaname": "East Williamsburg",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.95815283488757,
+                40.60888029893385
+            ]
+        },
+        "boro_code": "3",
+        "boro_name": "Brooklyn",
+        "boro_cd": "315",
+        "coun_dist": "48",
+        "assem_dist": "45",
+        "st_sen_dist": "22",
+        "cong_dist": "9",
+        "location": "Kings Hwy & E. 15th St",
+        "shelter_id": "BS1004",
+        "street": "KINGS HIGHWAY",
+        "ntaname": "Madison",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD",
+        "hrc_evac": "5"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -74.00418544571221,
+                40.654290631076414
+            ]
+        },
+        "boro_code": "3",
+        "boro_name": "Brooklyn",
+        "boro_cd": "307",
+        "coun_dist": "38",
+        "assem_dist": "51",
+        "st_sen_dist": "26",
+        "cong_dist": "10",
+        "location": "4th Ave & 36th St",
+        "shelter_id": "BS1005",
+        "street": "36 STREET",
+        "ntaname": "Sunset Park (West)",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD",
+        "hrc_evac": "5"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.98049489893239,
+                40.57567391264483
+            ]
+        },
+        "boro_code": "3",
+        "boro_name": "Brooklyn",
+        "boro_cd": "313",
+        "coun_dist": "47",
+        "assem_dist": "46",
+        "st_sen_dist": "23",
+        "cong_dist": "8",
+        "location": "Surf Ave & Stillwell Ave",
+        "shelter_id": "BS1007",
+        "street": "SURF AVENUE",
+        "ntaname": "Coney Island-Sea Gate",
+        "femafldz": "AE",
+        "hrc_evac": "1"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.89429103041087,
+                40.86297019613109
+            ]
+        },
+        "boro_code": "2",
+        "boro_name": "Bronx",
+        "boro_cd": "207",
+        "coun_dist": "15",
+        "assem_dist": "78",
+        "st_sen_dist": "33",
+        "cong_dist": "13",
+        "location": "E. Kingbridge Rd & Briggs Ave",
+        "shelter_id": "BS3001",
+        "street": "EAST KINGSBRIDGE ROAD",
+        "ntaname": "University Heights (North)-Fordham",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.90601188067646,
+                40.849842862422626
+            ]
+        },
+        "boro_code": "2",
+        "boro_name": "Bronx",
+        "boro_cd": "205",
+        "coun_dist": "14",
+        "assem_dist": "86",
+        "st_sen_dist": "33",
+        "cong_dist": "15",
+        "location": "Grand Concourse & E.Tremont Ave",
+        "shelter_id": "BS3002",
+        "street": "GRAND CONCOURSE",
+        "ntaname": "Mount Hope",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.989978555,
+                40.73701791033392
+            ]
+        },
+        "boro_code": "1",
+        "boro_name": "Manhattan",
+        "boro_cd": "105",
+        "coun_dist": "2",
+        "assem_dist": "74",
+        "st_sen_dist": "28",
+        "cong_dist": "12",
+        "location": "E. 17th St & Broadway",
+        "shelter_id": "BS4001",
+        "street": "EAST 17 STREET",
+        "ntaname": "Midtown South-Flatiron-Union Square",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.99256188367652,
+                40.742698515904735
+            ]
+        },
+        "boro_code": "1",
+        "boro_name": "Manhattan",
+        "boro_cd": "105",
+        "coun_dist": "3",
+        "assem_dist": "75",
+        "st_sen_dist": "28",
+        "cong_dist": "12",
+        "location": "W. 23rd St & 6th Ave",
+        "shelter_id": "BS4003",
+        "street": "WEST 23 STREET",
+        "ntaname": "Midtown South-Flatiron-Union Square",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.99808717183724,
+                40.74522816999436
+            ]
+        },
+        "boro_code": "1",
+        "boro_name": "Manhattan",
+        "boro_cd": "104",
+        "coun_dist": "3",
+        "assem_dist": "75",
+        "st_sen_dist": "47",
+        "cong_dist": "12",
+        "location": "W. 23rd St & 8th Ave",
+        "shelter_id": "BS4006",
+        "street": "WEST 23 STREET",
+        "ntaname": "Chelsea-Hudson Yards",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD",
+        "hrc_evac": "5"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.99009279896514,
+                40.71379174465101
+            ]
+        },
+        "boro_code": "1",
+        "boro_name": "Manhattan",
+        "boro_cd": "103",
+        "coun_dist": "1",
+        "assem_dist": "65",
+        "st_sen_dist": "27",
+        "cong_dist": "10",
+        "location": "Rutgers St & East Broadway",
+        "shelter_id": "BS4008",
+        "street": "RUTGERS STREET",
+        "ntaname": "Chinatown-Two Bridges",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD",
+        "hrc_evac": "5"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.95218731600916,
+                40.742658633047895
+            ]
+        },
+        "boro_code": "4",
+        "boro_name": "Queens",
+        "boro_cd": "402",
+        "coun_dist": "26",
+        "assem_dist": "37",
+        "st_sen_dist": "59",
+        "cong_dist": "7",
+        "location": "Jackson Ave & 50th Ave",
+        "shelter_id": "BS2001",
+        "street": "JACKSON AVENUE",
+        "ntaname": "Long Island City-Hunters Point",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD",
+        "hrc_evac": "3"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.92150005764297,
+                40.766572706970074
+            ]
+        },
+        "boro_code": "4",
+        "boro_name": "Queens",
+        "boro_cd": "401",
+        "coun_dist": "22",
+        "assem_dist": "36",
+        "st_sen_dist": "59",
+        "cong_dist": "14",
+        "location": "31st St & 30th Ave",
+        "shelter_id": "BS2002",
+        "street": "31 STREET",
+        "ntaname": "Astoria (Central)",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.82394086263547,
+                40.68597530941907
+            ]
+        },
+        "boro_code": "4",
+        "boro_name": "Queens",
+        "boro_cd": "410",
+        "coun_dist": "28",
+        "assem_dist": "24",
+        "st_sen_dist": "15",
+        "cong_dist": "5",
+        "location": "Lefferts Blvd & Liberty Ave",
+        "shelter_id": "BS2003",
+        "street": "LEFFERTS BOULEVARD",
+        "ntaname": "South Ozone Park",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.84484203907775,
+                40.719916586642114
+            ]
+        },
+        "boro_code": "4",
+        "boro_name": "Queens",
+        "boro_cd": "406",
+        "coun_dist": "29",
+        "assem_dist": "28",
+        "st_sen_dist": "14",
+        "cong_dist": "6",
+        "location": "71st Ave & Austin St",
+        "shelter_id": "BS2005",
+        "street": "71 AVENUE",
+        "ntaname": "Forest Hills",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -74.0661975758172,
+                40.5905069173068
+            ]
+        },
+        "boro_code": "5",
+        "boro_name": "Staten Island",
+        "boro_cd": "595",
+        "coun_dist": "50",
+        "assem_dist": "64",
+        "st_sen_dist": "23",
+        "cong_dist": "11",
+        "location": "Father Capodanno Blvd & Sand Lane",
+        "shelter_id": "BS5002",
+        "street": "FR CAPODANNO BOULEVARD",
+        "ntaname": "Grasmere-Arrochar-South Beach-Dongan Hills",
+        "femafldz": "AE",
+        "hrc_evac": "1"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -74.17097248892372,
+                40.56015795513925
+            ]
+        },
+        "boro_code": "5",
+        "boro_name": "Staten Island",
+        "boro_cd": "503",
+        "coun_dist": "51",
+        "assem_dist": "62",
+        "st_sen_dist": "24",
+        "cong_dist": "11",
+        "location": "Richmond Ave & Wainwright Ave",
+        "shelter_id": "BS5003",
+        "street": "ELTINGVILLE TRANSIT CENTER DRVWY",
+        "ntaname": "Great Kills-Eltingville",
+        "femafldz": "X",
+        "femafld_t": "AREA OF MINIMAL FLOOD HAZARD",
+        "hrc_evac": "4"
+    }
+]

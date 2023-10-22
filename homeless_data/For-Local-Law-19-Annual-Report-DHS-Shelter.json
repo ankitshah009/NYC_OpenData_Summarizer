@@ -1,0 +1,1642 @@
+[
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Shelter",
+        "count": "8"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Shelter",
+        "count": "5"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Shelter",
+        "count": "4"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Shelter",
+        "count": "3"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Family Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter",
+        "count": "22"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter",
+        "count": "35"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter",
+        "count": "40"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter",
+        "count": "11"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "1"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "13"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "4"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "16"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2021",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Cluster",
+        "count": "40"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Cluster",
+        "count": "6"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Cluster",
+        "count": "3"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "3"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "14"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "16"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "16"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Shelter",
+        "count": "72"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Shelter",
+        "count": "51"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Shelter",
+        "count": "31"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Shelter",
+        "count": "18"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2021",
+        "shelter_type": "FWC Shelter",
+        "count": "1"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Shelter",
+        "count": "9"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Shelter",
+        "count": "4"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Shelter",
+        "count": "6"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Shelter",
+        "count": "3"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Family Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter",
+        "count": "22"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter",
+        "count": "34"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter",
+        "count": "38"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter",
+        "count": "8"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "11"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "16"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2020",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Cluster",
+        "count": "49"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Cluster",
+        "count": "6"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Cluster",
+        "count": "12"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "3"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "15"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "18"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "19"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Shelter",
+        "count": "72"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Shelter",
+        "count": "53"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Shelter",
+        "count": "31"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Shelter",
+        "count": "18"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2020",
+        "shelter_type": "FWC Shelter",
+        "count": "1"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Shelter",
+        "count": "8"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Shelter",
+        "count": "5"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Shelter",
+        "count": "6"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Shelter",
+        "count": "3"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Family Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter",
+        "count": "21"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter",
+        "count": "33"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter",
+        "count": "37"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter",
+        "count": "7"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "9"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "15"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2019",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Cluster",
+        "count": "61"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Cluster",
+        "count": "12"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Cluster",
+        "count": "12"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "3"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "16"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "19"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "21"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Shelter",
+        "count": "72"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Shelter",
+        "count": "53"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Shelter",
+        "count": "31"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Shelter",
+        "count": "17"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2019",
+        "shelter_type": "FWC Shelter",
+        "count": "1"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Shelter"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Shelter"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Shelter"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Shelter"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Family Shelter"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter Comm Hotel"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter Comm Hotel"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter Comm Hotel"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter Comm Hotel"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2018",
+        "shelter_type": "Adult Shelter Comm Hotel"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Cluster"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Cluster"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Cluster"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Cluster"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Cluster"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Comm Hotel"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Comm Hotel"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Comm Hotel"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Comm Hotel"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Comm Hotel"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Shelter"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Shelter"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Shelter"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Shelter"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2018",
+        "shelter_type": "FWC Shelter"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Comm Hotel"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Shelter",
+        "count": "9"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Shelter",
+        "count": "5"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Shelter",
+        "count": "10"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Shelter",
+        "count": "2"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Family Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter",
+        "count": "16"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter",
+        "count": "31"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter",
+        "count": "38"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter",
+        "count": "7"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "1"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "4"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "11"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2017",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Cluster",
+        "count": "215"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Cluster",
+        "count": "48"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Cluster",
+        "count": "13"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "5"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "18"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "16"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "29"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Shelter",
+        "count": "62"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Shelter",
+        "count": "57"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Shelter",
+        "count": "32"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Shelter",
+        "count": "17"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2017",
+        "shelter_type": "FWC Shelter",
+        "count": "1"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Shelter",
+        "count": "5"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Shelter",
+        "count": "4"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Shelter",
+        "count": "3"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Shelter",
+        "count": "3"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Family Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter",
+        "count": "24"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter",
+        "count": "35"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter",
+        "count": "35"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter",
+        "count": "10"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "6"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "33"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "33"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "29"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2022",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Cluster",
+        "count": "21"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "4"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "13"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "13"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Shelter",
+        "count": "73"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Shelter",
+        "count": "54"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Shelter",
+        "count": "30"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Shelter",
+        "count": "18"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2022",
+        "shelter_type": "FWC Shelter",
+        "count": "1"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "1"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Shelter",
+        "count": "3"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Shelter",
+        "count": "4"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Shelter",
+        "count": "2"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Shelter",
+        "count": "3"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Family Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter",
+        "count": "26"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter",
+        "count": "34"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter",
+        "count": "39"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter",
+        "count": "10"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "4"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "22"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "10"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "19"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2023",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Shelter",
+        "count": "73"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Shelter",
+        "count": "48"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Shelter",
+        "count": "26"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Shelter",
+        "count": "19"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2023",
+        "shelter_type": "FWC Shelter",
+        "count": "1"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "1"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "4"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Shelter",
+        "count": "2"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Shelter",
+        "count": "4"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Shelter",
+        "count": "2"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Shelter",
+        "count": "5"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Family Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter",
+        "count": "30"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter",
+        "count": "36"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter",
+        "count": "35"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter",
+        "count": "13"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "4"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "27"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "4"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "24"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2024",
+        "shelter_type": "Adult Shelter Comm Hotel",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Cluster",
+        "count": "0"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "9"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "9"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "14"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "23"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Comm Hotel",
+        "count": "2"
+    },
+    {
+        "borough": "Bronx",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Shelter",
+        "count": "72"
+    },
+    {
+        "borough": "Brooklyn",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Shelter",
+        "count": "48"
+    },
+    {
+        "borough": "Manhattan",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Shelter",
+        "count": "29"
+    },
+    {
+        "borough": "Queens",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Shelter",
+        "count": "20"
+    },
+    {
+        "borough": "Staten Island",
+        "fiscal_year": "FY2024",
+        "shelter_type": "FWC Shelter",
+        "count": "1"
+    }
+]

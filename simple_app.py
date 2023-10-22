@@ -8,7 +8,7 @@ import nest_asyncio
 import pandas as pd
 import streamlit as st
 import openai
-
+import evaluate_datasets 
 from nyc_data_pipeline.source_extract_async import NYCPublicDataFetcher, NYCEndpointFetcher
 
 # Apply the nest_asyncio patch
@@ -68,14 +68,14 @@ def save_endpoints_to_files(endpoints, folder):
 
 
 async def main():
-    st.title("NYC Open Data Fetcher with Chatbox")
-    
-    # Create two columns
-    col1, col2 = st.columns([1, 1])
+    st.title("NYC Open Data App")
 
-    chatbot = Chatbot()  # Instantiate the Chatbot
+    page = st.sidebar.selectbox("Choose a page:", ["Data Fetcher", "Data Viewer", "File Ranking per Dataset"])
 
-    with col1:
+
+    if page == "Data Fetcher":
+        st.header("Data Fetcher")
+        
         query = st.text_input("Enter your query:", value="311")  # Default value is 311
         fetch_button = st.button("Fetch Data")
 
@@ -84,35 +84,50 @@ async def main():
             folder = f'{query}_data'
             endpoints = await fetch_endpoints_from_url(url)
             save_endpoints_to_files(endpoints, folder)
-            chatbot.load_data(folder)  # Load data into the chatbot
-
-            dataset_names = [name.replace('.json', '') for name in os.listdir(folder) if name.endswith('.json')]
-            dataset_choice = st.selectbox("Select a dataset:", dataset_names)
-
-            if dataset_choice:
-                analysis_result, dashboards = chatbot.generate_response(f'{dataset_choice}.json')
-                st.write("Summary Statistics:", analysis_result)
-                for idx, fig in enumerate(dashboards, 1):
-                    st.pyplot(fig)
     
-    with col2:
-        st.header("Chatbox")
+    elif page == "Data Viewer":
+        st.header("Data Viewer")
+
+        # List the folders containing '_data' in their names
         folders = [f for f in os.listdir('.') if os.path.isdir(f) and '_data' in f]
         folder_choice = st.selectbox("Select a folder:", folders)
 
         if folder_choice:
-            insights, dashboards = chatbot.provide_insights_and_dashboards(folder_choice)
-            for insight in insights:
-                st.write(f"Dataset: {insight['dataset_name']}")
-                st.write(f"Number of records: {insight['number_of_records']}")
-                st.write(f"Number of columns: {insight['number_of_columns']}")
-                st.write(f"Columns: {', '.join(insight['columns'])}")
-            for dashboard in dashboards:
-                st.pyplot(dashboard)
+            # List the datasets within the selected folder
+            datasets = [file for file in os.listdir(folder_choice) if file.endswith('.json')]
+            dataset_choice = st.selectbox("Select a dataset:", datasets)
 
-        user_input = st.text_area("Type your message here...", height=200)
-        send_button = st.button("Send")
+            if dataset_choice:
+                # Load the selected dataset
+                file_path = os.path.join(folder_choice, dataset_choice)
+                with open(file_path, 'r') as file:
+                    data = json.load(file)
+                df = pd.DataFrame(data)
+                # Display basic statistics of the dataset
+                st.subheader("Summary Statistics")
+                st.write(df.describe())
+                
+    elif page == "File Ranking per Dataset":
+        st.header("File Ranking per Dataset")
 
+        # List the folders containing '_data' in their names
+        folders = [f for f in os.listdir('.') if os.path.isdir(f) and '_data' in f]
+        folder_choice = st.selectbox("Select a folder:", folders)
+
+        if folder_choice:
+            # Call the rank_files_based_on_scores function for the selected folder
+            
+            ranked_files = evaluate_datasets.rank_files_based_on_scores(folder_choice)
+            
+            # Display the ranked files and their scores
+            st.write("Ranked Files:")
+            # for rank, file_name in enumerate(ranked_files, 1):
+            #     st.write(f"{rank}. {file_name}")
+            for i in ranked_files:
+                st.write(i)
+            # for rank, file_name in enumerate(ranked_files, 1):
+            #     st.write(f"{rank}. {file_name} - Completeness: {scores[file_name]['completeness']:.2f}, Variability Avg: {scores[file_name]['variability_avg']:.2f}")
+    
 # Run the main function
 if __name__ == "__main__":
     asyncio.run(main())

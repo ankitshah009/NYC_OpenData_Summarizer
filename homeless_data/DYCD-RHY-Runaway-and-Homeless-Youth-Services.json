@@ -1,0 +1,236 @@
+[
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.99338310640853,
+                40.74862808090852
+            ]
+        },
+        "id": "1.0",
+        "service": "Crises",
+        "divisionna": "Safe Horizon, Inc",
+        "address": "214 West 30th Street",
+        "zipcode": "10027.0",
+        "phonenumbe": "(212) 268-3943",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "New York"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.98926242678021,
+                40.76543659340834
+            ]
+        },
+        "id": "2.0",
+        "service": "Crises",
+        "divisionna": "Covenant House",
+        "address": "427 West 52nd Street,",
+        "zipcode": "10019.0",
+        "phonenumbe": "(212) 613-0300 ext. 0532",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "New York"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.99557687133783,
+                40.75854146537268
+            ]
+        },
+        "id": "3.0",
+        "service": "Crises",
+        "divisionna": "Covenant House",
+        "address": "460 West 41st Street",
+        "zipcode": "10036.0",
+        "phonenumbe": "(212) 613-0300 ext. 0531",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "New York"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.9593103103567,
+                40.69090313048385
+            ]
+        },
+        "id": "4.0",
+        "service": "Crises",
+        "divisionna": "Ali Forney Center",
+        "address": "241 Taffee Place",
+        "zipcode": "11205.0",
+        "phonenumbe": "(212) 206-0574",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "Brooklyn"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -74.0093510486368,
+                40.65202799350939
+            ]
+        },
+        "id": "5.0",
+        "service": "Crises",
+        "divisionna": "The Turning Point Sunset Terrace",
+        "address": "319-321 42nd Street",
+        "zipcode": "11220.0",
+        "phonenumbe": "(718) 640-1560 ext. 9025",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "Brooklyn"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.99542364366205,
+                40.66053403970373
+            ]
+        },
+        "id": "6.0",
+        "service": "Crises",
+        "divisionna": "Ali Forney Center",
+        "address": "216 23rd Street",
+        "zipcode": "11232.0",
+        "phonenumbe": "(212) 206-0574",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "Brooklyn"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -74.01450042310613,
+                40.645102977591485
+            ]
+        },
+        "id": "7.0",
+        "service": "Crises",
+        "divisionna": "The Turning Point",
+        "address": "5220 Fourth Avenue",
+        "zipcode": "11220.0",
+        "phonenumbe": "(718) 439-0077",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "Brooklyn"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.92017897369153,
+                40.81698294716547
+            ]
+        },
+        "id": "8.0",
+        "service": "Drop in",
+        "divisionna": "Cardinal McCloskey",
+        "address": "333 East 149th Street",
+        "zipcode": "10451.0",
+        "phonenumbe": "(718) 993-5495",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "Bronx"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -74.0051692831716,
+                40.72412129376002
+            ]
+        },
+        "id": "9.0",
+        "service": "Drop in",
+        "divisionna": "The Door",
+        "address": "121 6th Avenue",
+        "zipcode": "10013.0",
+        "phonenumbe": "(212) 453-0248",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "New York"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -74.13440427740537,
+                40.635744440562384
+            ]
+        },
+        "id": "10.0",
+        "service": "Drop in",
+        "divisionna": "Project Hospitality",
+        "address": "1546 Castleton Avenue",
+        "zipcode": "10302.0",
+        "phonenumbe": "(877) 994-6736",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "Staten Island"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.96509134546051,
+                40.70832272876161
+            ]
+        },
+        "id": "11.0",
+        "service": "Drop in",
+        "divisionna": "SCO Family of Services",
+        "address": "89 South 10th Street",
+        "zipcode": "11221.0",
+        "phonenumbe": "(718) 384-7083",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "Brooklyn"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.91562948297278,
+                40.81491018917466
+            ]
+        },
+        "id": "13.0",
+        "service": "Drop in",
+        "divisionna": "Bronx Community Pride Center",
+        "address": "448 East 149th Street",
+        "zipcode": "10455.0",
+        "phonenumbe": "(718) 292-4368",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "Bronx"
+    },
+    {
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -73.94858861436468,
+                40.809390746635856
+            ]
+        },
+        "id": "14.0",
+        "service": "Drop in",
+        "divisionna": "Safe Horizon, Inc",
+        "address": "209 West 125th Street",
+        "zipcode": "10027.0",
+        "phonenumbe": "(212) 695-2220",
+        "servicesof": "Runaway and Homeless Youth (RHY) services",
+        "url": "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+        "city": "New York"
+    }
+]

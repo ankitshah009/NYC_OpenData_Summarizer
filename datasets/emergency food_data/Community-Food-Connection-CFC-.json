@@ -1,0 +1,578 @@
+[
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2011-10-01T00:00:00.000",
+        "report_end_date": "2011-12-31T00:00:00.000",
+        "number": "2,587,785"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2011-10-01T00:00:00.000",
+        "report_end_date": "2011-12-31T00:00:00.000",
+        "number": "811,222"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2012-01-01T00:00:00.000",
+        "report_end_date": "2012-03-31T00:00:00.000",
+        "number": "N/A"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2012-01-01T00:00:00.000",
+        "report_end_date": "2012-03-31T00:00:00.000",
+        "number": "N/A"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2012-04-01T00:00:00.000",
+        "report_end_date": "2012-06-30T00:00:00.000",
+        "number": "N/A"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2012-04-01T00:00:00.000",
+        "report_end_date": "2012-06-30T00:00:00.000",
+        "number": "N/A"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2012-07-01T00:00:00.000",
+        "report_end_date": "2012-09-30T00:00:00.000",
+        "number": "2,235,270"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2012-07-01T00:00:00.000",
+        "report_end_date": "2012-09-30T00:00:00.000",
+        "number": "799,640"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2012-10-01T00:00:00.000",
+        "report_end_date": "2012-12-31T00:00:00.000",
+        "number": "2,734,453"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2012-10-01T00:00:00.000",
+        "report_end_date": "2012-12-31T00:00:00.000",
+        "number": "838,315"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2013-01-01T00:00:00.000",
+        "report_end_date": "2013-03-31T00:00:00.000",
+        "number": "N/A"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2013-01-01T00:00:00.000",
+        "report_end_date": "2013-03-31T00:00:00.000",
+        "number": "N/A"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2013-04-01T00:00:00.000",
+        "report_end_date": "2013-06-30T00:00:00.000",
+        "number": "N/A"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2013-04-01T00:00:00.000",
+        "report_end_date": "2013-06-30T00:00:00.000",
+        "number": "N/A"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2013-07-01T00:00:00.000",
+        "report_end_date": "2013-09-30T00:00:00.000",
+        "number": "2,271,449"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2013-07-01T00:00:00.000",
+        "report_end_date": "2013-09-30T00:00:00.000",
+        "number": "631,836"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2013-10-01T00:00:00.000",
+        "report_end_date": "2013-12-31T00:00:00.000",
+        "number": "2,494,783"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2013-10-01T00:00:00.000",
+        "report_end_date": "2013-12-31T00:00:00.000",
+        "number": "607,111"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2014-01-01T00:00:00.000",
+        "report_end_date": "2014-03-31T00:00:00.000",
+        "number": "2,304,566"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2014-01-01T00:00:00.000",
+        "report_end_date": "2014-03-31T00:00:00.000",
+        "number": "546,411"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2014-04-01T00:00:00.000",
+        "report_end_date": "2014-06-30T00:00:00.000",
+        "number": "2,614,548"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2014-04-01T00:00:00.000",
+        "report_end_date": "2014-06-30T00:00:00.000",
+        "number": "621,126"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2014-07-01T00:00:00.000",
+        "report_end_date": "2014-09-30T00:00:00.000",
+        "number": "2,590,762"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2014-07-01T00:00:00.000",
+        "report_end_date": "2014-09-30T00:00:00.000",
+        "number": "648,399"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2014-10-01T00:00:00.000",
+        "report_end_date": "2014-12-31T00:00:00.000",
+        "number": "2,936,109"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2014-10-01T00:00:00.000",
+        "report_end_date": "2014-12-31T00:00:00.000",
+        "number": "626,718"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2015-01-01T00:00:00.000",
+        "report_end_date": "2015-03-31T00:00:00.000",
+        "number": "2,505,041"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2015-01-01T00:00:00.000",
+        "report_end_date": "2015-03-31T00:00:00.000",
+        "number": "561,863"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2015-04-01T00:00:00.000",
+        "report_end_date": "2015-06-30T00:00:00.000",
+        "number": "2,732,983"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2015-04-01T00:00:00.000",
+        "report_end_date": "2015-06-30T00:00:00.000",
+        "number": "608,178"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2015-07-01T00:00:00.000",
+        "report_end_date": "2015-09-30T00:00:00.000",
+        "number": "2,709,911"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2015-07-01T00:00:00.000",
+        "report_end_date": "2015-09-30T00:00:00.000",
+        "number": "632,085"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2015-10-01T00:00:00.000",
+        "report_end_date": "2015-12-31T00:00:00.000",
+        "number": "2,956,771"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2015-10-01T00:00:00.000",
+        "report_end_date": "2015-12-31T00:00:00.000",
+        "number": "586,631"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2016-01-01T00:00:00.000",
+        "report_end_date": "2016-03-31T00:00:00.000",
+        "number": "2,652,314"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2016-01-01T00:00:00.000",
+        "report_end_date": "2016-03-31T00:00:00.000",
+        "number": "553,408"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2016-04-01T00:00:00.000",
+        "report_end_date": "2016-06-30T00:00:00.000",
+        "number": "3,201,449"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2016-04-01T00:00:00.000",
+        "report_end_date": "2016-06-30T00:00:00.000",
+        "number": "589,221"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2016-07-01T00:00:00.000",
+        "report_end_date": "2016-09-30T00:00:00.000",
+        "number": "2,863,145"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2016-07-01T00:00:00.000",
+        "report_end_date": "2016-09-30T00:00:00.000",
+        "number": "617,869"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2016-10-01T00:00:00.000",
+        "report_end_date": "2016-12-31T00:00:00.000",
+        "number": "3,024,016"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2016-10-01T00:00:00.000",
+        "report_end_date": "2016-12-31T00:00:00.000",
+        "number": "595,141"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2017-01-01T00:00:00.000",
+        "report_end_date": "2017-03-31T00:00:00.000",
+        "number": "2,854,430"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2017-01-01T00:00:00.000",
+        "report_end_date": "2017-03-31T00:00:00.000",
+        "number": "558,290"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2017-04-01T00:00:00.000",
+        "report_end_date": "2017-06-30T00:00:00.000",
+        "number": "3,111,791"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2017-04-01T00:00:00.000",
+        "report_end_date": "2017-06-30T00:00:00.000",
+        "number": "597,940"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2017-07-01T00:00:00.000",
+        "report_end_date": "2017-09-30T00:00:00.000",
+        "number": "2,980,128"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2017-07-01T00:00:00.000",
+        "report_end_date": "2017-09-30T00:00:00.000",
+        "number": "634,097"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2017-10-01T00:00:00.000",
+        "report_end_date": "2017-12-31T00:00:00.000",
+        "number": "3,309,266"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2017-10-01T00:00:00.000",
+        "report_end_date": "2017-12-31T00:00:00.000",
+        "number": "603,371"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2018-01-01T00:00:00.000",
+        "report_end_date": "2018-03-31T00:00:00.000",
+        "number": "3,047,380"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2018-01-01T00:00:00.000",
+        "report_end_date": "2018-03-31T00:00:00.000",
+        "number": "580,197"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2018-04-01T00:00:00.000",
+        "report_end_date": "2018-06-30T00:00:00.000",
+        "number": "3,365,723"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2018-04-01T00:00:00.000",
+        "report_end_date": "2018-06-30T00:00:00.000",
+        "number": "631,541"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2018-07-01T00:00:00.000",
+        "report_end_date": "2018-09-30T00:00:00.000",
+        "number": "3,102,692"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2018-07-01T00:00:00.000",
+        "report_end_date": "2018-09-30T00:00:00.000",
+        "number": "649,180"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2018-10-01T00:00:00.000",
+        "report_end_date": "2018-12-31T00:00:00.000",
+        "number": "3,162,624"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2018-10-01T00:00:00.000",
+        "report_end_date": "2018-12-31T00:00:00.000",
+        "number": "641,533"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2019-01-01T00:00:00.000",
+        "report_end_date": "2019-03-31T00:00:00.000",
+        "number": "3,059,360"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2019-01-01T00:00:00.000",
+        "report_end_date": "2019-03-31T00:00:00.000",
+        "number": "637,073"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2019-04-01T00:00:00.000",
+        "report_end_date": "2019-06-30T00:00:00.000",
+        "number": "3,349,553"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2019-04-01T00:00:00.000",
+        "report_end_date": "2019-06-30T00:00:00.000",
+        "number": "681,537"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2019-07-01T00:00:00.000",
+        "report_end_date": "2019-09-30T00:00:00.000",
+        "number": "3,222,529"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2019-07-01T00:00:00.000",
+        "report_end_date": "2019-09-30T00:00:00.000",
+        "number": "688,730"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2019-10-01T00:00:00.000",
+        "report_end_date": "2019-12-31T00:00:00.000",
+        "number": "3,320,905"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2019-10-01T00:00:00.000",
+        "report_end_date": "2019-12-31T00:00:00.000",
+        "number": "667,465"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2020-01-01T00:00:00.000",
+        "report_end_date": "2020-03-31T00:00:00.000",
+        "number": "3,392,824"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2020-01-01T00:00:00.000",
+        "report_end_date": "2020-03-31T00:00:00.000",
+        "number": "658,861"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2020-04-01T00:00:00.000",
+        "report_end_date": "2020-06-30T00:00:00.000",
+        "number": "6,569,071"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2020-04-01T00:00:00.000",
+        "report_end_date": "2020-06-30T00:00:00.000",
+        "number": "938,786"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2020-07-01T00:00:00.000",
+        "report_end_date": "2020-09-30T00:00:00.000",
+        "number": "6,543,396"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2020-07-01T00:00:00.000",
+        "report_end_date": "2020-09-30T00:00:00.000",
+        "number": "896,333"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2020-10-01T00:00:00.000",
+        "report_end_date": "2020-12-31T00:00:00.000",
+        "number": "5,919,957"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2020-10-01T00:00:00.000",
+        "report_end_date": "2020-12-31T00:00:00.000",
+        "number": "679,626"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2021-01-01T00:00:00.000",
+        "report_end_date": "2021-03-31T00:00:00.000",
+        "number": "6,825,991"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2021-01-01T00:00:00.000",
+        "report_end_date": "2021-03-31T00:00:00.000",
+        "number": "633,900"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2021-04-01T00:00:00.000",
+        "report_end_date": "2021-06-30T00:00:00.000",
+        "number": "8,185,643"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2021-04-01T00:00:00.000",
+        "report_end_date": "2021-06-30T00:00:00.000",
+        "number": "806,035"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2021-07-01T00:00:00.000",
+        "report_end_date": "2021-09-30T00:00:00.000",
+        "number": "7,442,856"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2021-07-01T00:00:00.000",
+        "report_end_date": "2021-09-30T00:00:00.000",
+        "number": "752,509"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2021-10-01T00:00:00.000",
+        "report_end_date": "2021-12-31T00:00:00.000",
+        "number": "7,484,939"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2021-10-01T00:00:00.000",
+        "report_end_date": "2021-12-31T00:00:00.000",
+        "number": "782,738"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2022-01-01T00:00:00.000",
+        "report_end_date": "2022-03-31T00:00:00.000",
+        "number": "7,447,280"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2022-01-01T00:00:00.000",
+        "report_end_date": "2022-03-31T00:00:00.000",
+        "number": "779,679"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2022-07-01T00:00:00.000",
+        "report_end_date": "2022-09-30T00:00:00.000",
+        "number": "7,203,053"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2022-07-01T00:00:00.000",
+        "report_end_date": "2022-09-30T00:00:00.000",
+        "number": "751,797"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2022-04-01T00:00:00.000",
+        "report_end_date": "2022-06-30T00:00:00.000",
+        "number": "7,861,213"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2022-04-01T00:00:00.000",
+        "report_end_date": "2022-06-30T00:00:00.000",
+        "number": "780,483"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2022-07-01T00:00:00.000",
+        "report_end_date": "2022-09-30T00:00:00.000",
+        "number": "7,203,053"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2022-07-01T00:00:00.000",
+        "report_end_date": "2022-09-30T00:00:00.000",
+        "number": "751,797"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2022-10-01T00:00:00.000",
+        "report_end_date": "2022-12-31T00:00:00.000",
+        "number": "7,315,960"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2022-10-01T00:00:00.000",
+        "report_end_date": "2022-12-31T00:00:00.000",
+        "number": "795,751"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2023-01-01T00:00:00.000",
+        "report_end_date": "2023-03-31T00:00:00.000",
+        "number": "7,073,843"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2023-01-01T00:00:00.000",
+        "report_end_date": "2023-03-31T00:00:00.000",
+        "number": "786,025"
+    },
+    {
+        "facility": "Food Pantries (Individuals Served)",
+        "report_start_date": "2023-04-01T00:00:00.000",
+        "report_end_date": "2023-06-30T00:00:00.000",
+        "number": "7,745,824"
+    },
+    {
+        "facility": "Soup Kitchens ( meals served)",
+        "report_start_date": "2023-04-01T00:00:00.000",
+        "report_end_date": "2023-06-30T00:00:00.000",
+        "number": "860,697"
+    }
+]

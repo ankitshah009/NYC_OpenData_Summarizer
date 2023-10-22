@@ -1,0 +1,74 @@
+[
+    {
+        "fiscal_year": "2012",
+        "tons_collected_dsny": "23",
+        "tons_collected_non_dsny": "209",
+        "total_tons_collected_all": "232"
+    },
+    {
+        "fiscal_year": "2013",
+        "tons_collected_dsny": "232",
+        "tons_collected_non_dsny": "720",
+        "total_tons_collected_all": "952"
+    },
+    {
+        "fiscal_year": "2014",
+        "tons_collected_dsny": "325",
+        "tons_collected_non_dsny": "1505",
+        "total_tons_collected_all": "1830"
+    },
+    {
+        "fiscal_year": "2015",
+        "tons_collected_dsny": "408",
+        "tons_collected_non_dsny": "1704",
+        "total_tons_collected_all": "2112"
+    },
+    {
+        "fiscal_year": "2016",
+        "tons_collected_dsny": "483",
+        "tons_collected_non_dsny": "1824",
+        "total_tons_collected_all": "2307"
+    },
+    {
+        "fiscal_year": "2017",
+        "tons_collected_dsny": "451",
+        "tons_collected_non_dsny": "1725",
+        "total_tons_collected_all": "2176"
+    },
+    {
+        "fiscal_year": "2018",
+        "tons_collected_dsny": "468",
+        "tons_collected_non_dsny": "2064",
+        "total_tons_collected_all": "2532"
+    },
+    {
+        "fiscal_year": "2019",
+        "tons_collected_dsny": "524",
+        "tons_collected_non_dsny": "2527",
+        "total_tons_collected_all": "3051"
+    },
+    {
+        "fiscal_year": "2020",
+        "tons_collected_dsny": "446",
+        "tons_collected_non_dsny": "2103",
+        "total_tons_collected_all": "2549"
+    },
+    {
+        "fiscal_year": "2021",
+        "tons_collected_dsny": "0",
+        "tons_collected_non_dsny": "1988",
+        "total_tons_collected_all": "1988"
+    },
+    {
+        "fiscal_year": "2022",
+        "tons_collected_dsny": "0",
+        "tons_collected_non_dsny": "3421",
+        "total_tons_collected_all": "3421"
+    },
+    {
+        "fiscal_year": "2023",
+        "tons_collected_dsny": "0",
+        "tons_collected_non_dsny": "3442",
+        "total_tons_collected_all": "3442"
+    }
+]

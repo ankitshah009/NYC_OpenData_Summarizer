@@ -1,0 +1,146 @@
+[
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "All CHS respondents",
+        "question": "Serious psychological distress (SPD), past 30 days",
+        "prevalence": "5.39",
+        "lower_95_ci": "4.47",
+        "upper_95_ci": "6.50"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "All CHS respondents",
+        "question": "Serious mental illness (SMI), past 12 months",
+        "prevalence": "3.80",
+        "lower_95_ci": "3.03",
+        "upper_95_ci": "4.77"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Received one-on-one counseling or therapy, past 12 months (Among those with SMI)",
+        "prevalence": "44.34*",
+        "lower_95_ci": "33.37",
+        "upper_95_ci": "55.90"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Took presciption medication to treat emotions, nerves, or mental health, past 12 months (Among those with SMI)",
+        "prevalence": "45.24*",
+        "lower_95_ci": "34.17",
+        "upper_95_ci": "56.81"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Received counseling for drugs or alcohol in past 12 months (Among those with SMI)",
+        "prevalence": "7.65*",
+        "lower_95_ci": "3.63",
+        "upper_95_ci": "15.42"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Visited ER for mental health in past 12 months (Among those with SMI)",
+        "prevalence": "7.03*",
+        "lower_95_ci": "3.73",
+        "upper_95_ci": "12.86"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Unmet mental health treatment need (Among those with SMI)",
+        "prevalence": "40.54*",
+        "lower_95_ci": "29.84",
+        "upper_95_ci": "52.22"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI who reported having an unmet need in the past 12 months",
+        "question": "Barrier to care: had trouble finding a provider you like (Among those with SMI)",
+        "prevalence": "33.38*",
+        "lower_95_ci": "22.57",
+        "upper_95_ci": "46.28"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI who reported having an unmet need in the past 12 months",
+        "question": "Barrier to care: treatment seemed difficult or overwhelming (Among those with SMI)",
+        "prevalence": "47.18*",
+        "lower_95_ci": "34.67",
+        "upper_95_ci": "60.06"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI who reported having an unmet need in the past 12 months",
+        "question": "Barrier to care: cost (Among those with SMI)",
+        "prevalence": "47.04*",
+        "lower_95_ci": "34.55",
+        "upper_95_ci": "59.92"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI who reported having an unmet need in the past 12 months",
+        "question": "Barrier to care: no time due to job, childcare, or other commitment (Among those with SMI)",
+        "prevalence": "35.41*",
+        "lower_95_ci": "23.83",
+        "upper_95_ci": "49.00"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Employment status: Employed (Among those with SMI)",
+        "prevalence": "34.39*",
+        "lower_95_ci": "24.43",
+        "upper_95_ci": "45.95"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Poverty level: <200% federal poverty line (FPL) (Among those with SMI)",
+        "prevalence": "62.00*",
+        "lower_95_ci": "49.89",
+        "upper_95_ci": "72.78"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Lives in public housing or receives housing assistance (Among those with SMI)",
+        "prevalence": "28.61*",
+        "lower_95_ci": "19.31",
+        "upper_95_ci": "40.15"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Had health insurance (Among those with SMI)",
+        "prevalence": "79.48",
+        "lower_95_ci": "68.69",
+        "upper_95_ci": "87.24"
+    },
+    {
+        "survey": "CMHS",
+        "year": "2012",
+        "denominator": "Follow-up respondents with SMI",
+        "question": "Current smoker (Among those with SMI)",
+        "prevalence": "42.18*",
+        "lower_95_ci": "31.16",
+        "upper_95_ci": "54.04"
+    }
+]

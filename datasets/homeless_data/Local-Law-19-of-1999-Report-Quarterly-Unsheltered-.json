@@ -1,0 +1,662 @@
+[
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "28738",
+        "report_quarter": "FY21 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2063",
+        "report_quarter": "FY21 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "689",
+        "report_quarter": "FY21 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "93",
+        "report_quarter": "FY21 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "855",
+        "report_quarter": "FY21 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "239",
+        "report_quarter": "FY21 Q4"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "21460",
+        "report_quarter": "FY22 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1974",
+        "report_quarter": "FY22 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "513",
+        "report_quarter": "FY22 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "88",
+        "report_quarter": "FY22 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "751",
+        "report_quarter": "FY22 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "192",
+        "report_quarter": "FY22 Q1"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "25975",
+        "report_quarter": "FY22 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1839",
+        "report_quarter": "FY22 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "1008",
+        "report_quarter": "FY22 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "96",
+        "report_quarter": "FY22 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "982",
+        "report_quarter": "FY22 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "318",
+        "report_quarter": "FY22 Q3"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "23468",
+        "report_quarter": "FY22 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1927",
+        "report_quarter": "FY22 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "613",
+        "report_quarter": "FY22 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "113",
+        "report_quarter": "FY22 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "989",
+        "report_quarter": "FY22 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "216",
+        "report_quarter": "FY22 Q2"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "39466",
+        "report_quarter": "FY18 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1717",
+        "report_quarter": "FY18 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "1724",
+        "report_quarter": "FY18 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "126",
+        "report_quarter": "FY18 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "540",
+        "report_quarter": "FY18 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "291",
+        "report_quarter": "FY18 Q3"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "41629",
+        "report_quarter": "FY18 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1614",
+        "report_quarter": "FY18 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "2091",
+        "report_quarter": "FY18 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "132",
+        "report_quarter": "FY18 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "514",
+        "report_quarter": "FY18 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "185",
+        "report_quarter": "FY18 Q4"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "42024",
+        "report_quarter": "FY19 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1498",
+        "report_quarter": "FY19 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "2687",
+        "report_quarter": "FY19 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "133",
+        "report_quarter": "FY19 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "446",
+        "report_quarter": "FY19 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "104",
+        "report_quarter": "FY19 Q1"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "43135",
+        "report_quarter": "FY19 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1599",
+        "report_quarter": "FY19 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "2423",
+        "report_quarter": "FY19 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "102",
+        "report_quarter": "FY19 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "618",
+        "report_quarter": "FY19 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "189",
+        "report_quarter": "FY19 Q2"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "42057",
+        "report_quarter": "FY19 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1705",
+        "report_quarter": "FY19 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "2174",
+        "report_quarter": "FY19 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "120",
+        "report_quarter": "FY19 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "689",
+        "report_quarter": "FY19 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "188",
+        "report_quarter": "FY19 Q3"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "42731",
+        "report_quarter": "FY19 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1273",
+        "report_quarter": "FY19 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "2376",
+        "report_quarter": "FY19 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "107",
+        "report_quarter": "FY19 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "570",
+        "report_quarter": "FY19 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "112",
+        "report_quarter": "FY19 Q4"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "39078",
+        "report_quarter": "FY20 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1843",
+        "report_quarter": "FY20 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "1989",
+        "report_quarter": "FY20 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "81",
+        "report_quarter": "FY20 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "742",
+        "report_quarter": "FY20 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "148",
+        "report_quarter": "FY20 Q1"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "35924",
+        "report_quarter": "FY20 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2505",
+        "report_quarter": "FY20 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "1628",
+        "report_quarter": "FY20 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "101",
+        "report_quarter": "FY20 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "950",
+        "report_quarter": "FY20 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "274",
+        "report_quarter": "FY20 Q2"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "34974",
+        "report_quarter": "FY20 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2692",
+        "report_quarter": "FY20 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "1907",
+        "report_quarter": "FY20 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "139",
+        "report_quarter": "FY20 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "1588",
+        "report_quarter": "FY20 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "371",
+        "report_quarter": "FY20 Q3"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "28023",
+        "report_quarter": "FY20 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2317",
+        "report_quarter": "FY20 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "1228",
+        "report_quarter": "FY20 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "103",
+        "report_quarter": "FY20 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "2169",
+        "report_quarter": "FY20 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "325",
+        "report_quarter": "FY20 Q4"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "26270",
+        "report_quarter": "FY21 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "1845",
+        "report_quarter": "FY21 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "1156",
+        "report_quarter": "FY21 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "104",
+        "report_quarter": "FY21 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "1185",
+        "report_quarter": "FY21 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "151",
+        "report_quarter": "FY21 Q1"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "23280",
+        "report_quarter": "FY21 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2069",
+        "report_quarter": "FY21 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "931",
+        "report_quarter": "FY21 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "140",
+        "report_quarter": "FY21 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "1633",
+        "report_quarter": "FY21 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "346",
+        "report_quarter": "FY21 Q2"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "30457",
+        "report_quarter": "FY21 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2259",
+        "report_quarter": "FY21 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "873",
+        "report_quarter": "FY21 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "92",
+        "report_quarter": "FY21 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "1294",
+        "report_quarter": "FY21 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "420",
+        "report_quarter": "FY21 Q3"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "28518",
+        "report_quarter": "FY22 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2484",
+        "report_quarter": "FY22 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "668",
+        "report_quarter": "FY22 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "142",
+        "report_quarter": "FY22 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "1474",
+        "report_quarter": "FY22 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "563",
+        "report_quarter": "FY22 Q4"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "27068",
+        "report_quarter": "FY23 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2163",
+        "report_quarter": "FY23 Q1"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "980",
+        "report_quarter": "FY23 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "164",
+        "report_quarter": "FY23 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "1289",
+        "report_quarter": "FY23 Q1"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "379",
+        "report_quarter": "FY23 Q1"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "30853",
+        "report_quarter": "FY23 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "2545",
+        "report_quarter": "FY23 Q2"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "853",
+        "report_quarter": "FY23 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "210",
+        "report_quarter": "FY23 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "1893",
+        "report_quarter": "FY23 Q2"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "396",
+        "report_quarter": "FY23 Q2"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "33647",
+        "report_quarter": "FY23 Q3"
+    },
+    {
+        "indicator": "Total Number of Engagements",
+        "cases": "36578",
+        "report_quarter": "FY23 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "3142",
+        "report_quarter": "FY23 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "832",
+        "report_quarter": "FY23 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "162",
+        "report_quarter": "FY23 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "2166",
+        "report_quarter": "FY23 Q3"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "810",
+        "report_quarter": "FY23 Q3"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Clients Living On-Street, in Subway or in Other Settings",
+        "cases": "3156",
+        "report_quarter": "FY23 Q4"
+    },
+    {
+        "indicator": "Count for the Last Month of Quarter of Prospective Clients",
+        "cases": "790",
+        "report_quarter": "FY23 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Permanent Housing",
+        "cases": "107",
+        "report_quarter": "FY23 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Transitional Settings",
+        "cases": "2907",
+        "report_quarter": "FY23 Q4"
+    },
+    {
+        "indicator": "Total Number of Clients Placed into Other Settings",
+        "cases": "504",
+        "report_quarter": "FY23 Q4"
+    }
+]

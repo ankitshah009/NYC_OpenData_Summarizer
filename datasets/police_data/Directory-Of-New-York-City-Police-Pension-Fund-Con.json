@@ -1,0 +1,50 @@
+[
+    {
+        "department_name": "Main Telephone Number",
+        "phone_number": "(212) 693-5100"
+    },
+    {
+        "department_name": "Toll Free Number for members calling out of NY State",
+        "phone_number": "(866) NYCPPF3/(866) 692-7733"
+    },
+    {
+        "department_name": "Pension Payroll and Death Benefits",
+        "phone_number": "(212)693-6888"
+    },
+    {
+        "department_name": "Retired Death Benefits",
+        "phone_number": "(212) 693-6887"
+    },
+    {
+        "department_name": "EFT",
+        "phone_number": "(212) 693-6889"
+    },
+    {
+        "department_name": "Calendar Preparation",
+        "phone_number": "(212) 693-5960"
+    },
+    {
+        "department_name": "Retirement Counseling",
+        "phone_number": "(212)693-5733"
+    },
+    {
+        "department_name": "Buyback and Active Services",
+        "phone_number": "(212) 693-6860"
+    },
+    {
+        "department_name": "ITHP",
+        "phone_number": "(212) 693-6862"
+    },
+    {
+        "department_name": "Membership",
+        "phone_number": "(212) 693-5850"
+    },
+    {
+        "department_name": "Loans",
+        "phone_number": "(212) 693-5950"
+    },
+    {
+        "department_name": "Article I",
+        "phone_number": "(646) 610-2690"
+    }
+]

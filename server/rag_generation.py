@@ -46,12 +46,7 @@ def complete(prompt):
             {'role': 'user', 'content': prompt}
         ],
         temperature=0,
-<<<<<<< HEAD
         max_tokens=550,
-        top_p=1,
-=======
-        max_tokens=350,
->>>>>>> 8536313531e1d9ebf234e39dc400b8c30da4127e
 
     )
     return response['choices'][0]['message']['content']

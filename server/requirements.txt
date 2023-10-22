@@ -6,3 +6,7 @@ openai
 tqdm
 python-dotenv
 langchain
+Flask==2.2.2
+Werkzeug==2.2.2
+flask-cors
+numpy

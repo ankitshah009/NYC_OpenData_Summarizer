@@ -96,6 +96,10 @@ def answer_nyc_question(question, k=3):
     prompt = ' '.join(prompt.split())
     answer = complete(prompt)
 
-    sources_help = "\n- ".join(list(set(websites)))
+    # list the sources in a buletted list
+    sources = []
+    for website in websites:
+        sources.append(f"- {website}")
+    sources_help = "\n".join(sources)
 
     return answer, sources_help

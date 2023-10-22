@@ -19,7 +19,7 @@ def about():
 
 @app.route('/get_answer', methods=['POST']) 
 def get_answer():
-    translation_url = "https://f9bb-128-84-95-213.ngrok.io/translate"
+    translation_url = "http://burro.mlsp.cs.cmu.edu:5000/translate"
     question = request.get_json()['question']
     language = request.get_json()['language']
     # english langauge key: en

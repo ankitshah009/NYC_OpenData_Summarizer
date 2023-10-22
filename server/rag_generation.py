@@ -42,7 +42,7 @@ def complete(prompt):
             {'role': 'user', 'content': prompt}
         ],
         temperature=0,
-        max_tokens=550,
+        max_tokens=350,
 
     )
     return response['choices'][0]['message']['content']
@@ -71,7 +71,7 @@ def answer_nyc_question(question, k=3):
 
     # build our prompt with the retrieved contexts included
     prompt_start = (
-        "You are the NYC AI Assistant. Please provide a short summary of the context below to answer the subsequent question. If the question is not relevant, politely ask the user to clarify.\n\n" +
+        "You are the NYC AI Assistant. Using the context information below, provide an overview of the avalable NYC services and a step by step approach that helps the user answer their question. If the question is not relevant, politely ask the user to clarify.\n\n" +
         "Context:\n"
     )
     prompt_end = (

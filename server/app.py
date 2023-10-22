@@ -1,3 +1,4 @@
+import requests
 from flask import Flask, request
 from flask_cors import CORS
 import numpy as np
@@ -17,8 +18,25 @@ def about():
 
 
 @app.route('/get_answer', methods=['POST']) 
-# given a question, return the answer
 def get_answer():
+    translation_url = "https://f9bb-128-84-95-213.ngrok.io/translate"
     question = request.get_json()['question']
-    answer = answer_nyc_question(question)
-    return {"answer": answer}
+    language = request.get_json()['language']
+    # english langauge key: en
+    translated_response = requests.post(translation_url, data={"q": question, "source": "auto", "target": "en", "format": "text"})
+    translated_question = translated_response.json()['translatedText']
+    answer, sources = answer_nyc_question(question)
+    payload = {
+        "q": answer,
+        "source": "en",
+        "target": language,
+        "format": "text"
+    }
+    translated_response = requests.post(translation_url, data=payload)
+    translated_answer = translated_response.json()['translatedText']
+
+    return {"answer": answer, "translatedAnswer": translated_answer + '\n\n' + sources}
+
+
+if __name__ == '__main__':
+    app.run(debug=True)

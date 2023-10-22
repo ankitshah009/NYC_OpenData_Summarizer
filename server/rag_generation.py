@@ -4,13 +4,15 @@ import openai
 import requests
 from bs4 import BeautifulSoup
 import pinecone
+import os
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv('.env')
 pinecone.init(api_key="39e7f82b-83bf-4797-9281-0b76cb1e5b56",
               environment="us-west4-gcp-free")
 index = pinecone.Index("nychackathon")
-
+openai.api_key = os.getenv("OPENAI_API_KEY")
 open_ai_api_key = os.getenv("OPENAI_API_KEY")
+print('api key', open_ai_api_key)
 
 
 def get_openai_embedding(text):
@@ -45,6 +47,7 @@ def complete(prompt):
         ],
         temperature=0,
         max_tokens=550,
+        top_p=1,
 
     )
     return response['choices'][0]['message']['content']
@@ -74,6 +77,7 @@ def answer_nyc_question(question, k=3):
                 page_texts.append(page_text)
                 websites.append(website)
         except Exception as e:
+            print(f"An error occurred in getting matched articles: {e}")
             return "Sorry, I don't know the answer to that."
 
     combined_contexts = "\n\n---\n\n".join(page_texts)
@@ -93,5 +97,6 @@ def answer_nyc_question(question, k=3):
     prompt = ' '.join(prompt.split())
     answer = complete(prompt)
 
-    sources_help = "Here are some websites you may find useful for more info: \n- " + \
-        "\n- ".join(list(set(websites)))
+    sources_help = "\n- ".join(list(set(websites)))
+
+    return answer, sources_help

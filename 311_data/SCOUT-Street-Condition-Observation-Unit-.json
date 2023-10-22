@@ -1,0 +1,2261 @@
+[
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "01 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "01 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "41"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "01 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Damaged",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "01 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "01 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "26"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "01 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "01 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Vacant Lot",
+        "descriptor_1": "8 Request to Clean Vacant Lot",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "03 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "03 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "8"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Damaged",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DPR",
+        "complaint_type": "Maintenance or Facility",
+        "descriptor_1": "Garbage or Litter",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "37"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "04 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Vacant Lot",
+        "descriptor_1": "8 Request to Clean Vacant Lot",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "05 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "05 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "05 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "7"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "05 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "8"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "05 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Damaged",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "05 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "42"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "07 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Sidewalk Condition",
+        "descriptor_1": "Newspaper Box Complaint",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "07 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "07 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "07 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Damaged",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "07 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "16"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "08 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "08 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Damaged",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "08 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "08 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "08 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "09 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "09 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "10 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "10 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "18"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "10 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "12 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "12 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "17"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "12 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "10"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "12 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "12"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "12 BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "Unspecified BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "133"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "Unspecified BRONX",
+        "agency": "DOT",
+        "complaint_type": "Traffic Signal Condition",
+        "descriptor_1": "Veh Signal Head",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BRONX",
+        "community_board": "Unspecified BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "96"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "02 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "16"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "02 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "02 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "02 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "03 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "10"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "03 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "03 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "8"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "03 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "04 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "05 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Bus Stop Shelter Complaint",
+        "descriptor_1": "Damaged Other",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "05 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "05 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "6"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "06 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "56"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "06 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "06 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "06 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "07 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Sidewalk Condition",
+        "descriptor_1": "Broken Sidewalk",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "07 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "07 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "14"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "07 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "33"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "07 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "08 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "14"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "08 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "08 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Wear & Tear",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "08 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "08 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "16"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "09 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "09 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "09 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "10 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Bus Stop Shelter Complaint",
+        "descriptor_1": "Damaged Other",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "10 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "9"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "10 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "11 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "11 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "8"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "11 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "21"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "11 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Street Cave-In",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "11 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "12 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Sidewalk Condition",
+        "descriptor_1": "Broken Sidewalk",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "12 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "11"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "12 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "36"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "12 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Damaged",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "12 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "12 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "13 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "13 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "13 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "14 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "15 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "15 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "15 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "17"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "16 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "16 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "16 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "17 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "Unspecified BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "26"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "Unspecified BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Wear & Tear",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "Unspecified BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Traffic Signal Condition",
+        "descriptor_1": "Veh Signal Head",
+        "of_srs": "6"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "BROOKLYN",
+        "community_board": "Unspecified BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "171"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "01 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "6"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "02 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "02 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "02 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "02 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "30"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "02 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "9"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "03 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "03 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "04 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "04 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "05 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "05 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "06 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "07 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "07 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "7"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "07 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "7"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "08 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "08 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "6"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "08 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "09 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "09 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "8"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "09 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "09 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "11 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "11 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "12 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "12 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "12 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "28"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "12 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Damaged",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "12 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "24"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "12 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "Unspecified MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "MANHATTAN",
+        "community_board": "Unspecified MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "24"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "01 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "01 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "01 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "01 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "52"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "01 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "02 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "02 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "02 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "03 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "25"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "05 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "05 QUEENS",
+        "agency": "DPR",
+        "complaint_type": "Damaged Tree",
+        "descriptor_1": "Branch Cracked and Will Fall",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "07 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "07 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "07 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "07 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "08 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "08 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "08 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "St Name - Over Intersection",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "08 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "46"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "08 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "09 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "09 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "11 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "17"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "7"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DPR",
+        "complaint_type": "Damaged Tree",
+        "descriptor_1": "Branch Cracked and Will Fall",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "18"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "13 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "13 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "St Name - Over Intersection",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "21"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Vacant Lot",
+        "descriptor_1": "8 Request to Clean Vacant Lot",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "Unspecified QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "21"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "QUEENS",
+        "community_board": "Unspecified QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "62"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "STATEN ISLAND",
+        "community_board": "02 STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "STATEN ISLAND",
+        "community_board": "02 STATEN ISLAND",
+        "agency": "DPR",
+        "complaint_type": "Damaged Tree",
+        "descriptor_1": "Branch Cracked and Will Fall",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "STATEN ISLAND",
+        "community_board": "03 STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Bus Stop Shelter Complaint",
+        "descriptor_1": "Damaged Other",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "STATEN ISLAND",
+        "community_board": "03 STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Missing",
+        "descriptor_1": "Stop",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 01",
+        "borough": "STATEN ISLAND",
+        "community_board": "Unspecified STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "35"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BRONX",
+        "community_board": "11 BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BRONX",
+        "community_board": "Unspecified BRONX",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "12"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BRONX",
+        "community_board": "Unspecified BRONX",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "02 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "03 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "05 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "06 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "07 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "32"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "07 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "08 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "6"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "08 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "09 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "7"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "09 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "09 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "10 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "10 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "11 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "11 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "12 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "15 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "15 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "7"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "18 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "13"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "18 BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "Unspecified BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "29"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "Unspecified BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Traffic Signal Condition",
+        "descriptor_1": "Veh Signal Head",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "BROOKLYN",
+        "community_board": "Unspecified BROOKLYN",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "37"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "01 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "02 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "02 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "19"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "02 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "12"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "04 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "05 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "6"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "05 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "05 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "06 MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "8"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "06 MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "Unspecified MANHATTAN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "38"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "MANHATTAN",
+        "community_board": "Unspecified MANHATTAN",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "8"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "01 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "02 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "02 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E3A Dirty Area/Alleyway",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "02 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "03 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "16"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "04 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "4"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "07 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "08 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "12"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "09 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "30"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "09 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "Other/Unknown",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "10 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "11"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "10 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Missing",
+        "descriptor_1": "One Way",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "12 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Defective Hardware",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Sign - Dangling",
+        "descriptor_1": "St Name - Over Intersection",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Dirty Conditions",
+        "descriptor_1": "E15 Illegal Postering",
+        "of_srs": "58"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "14 QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Sanitation Condition",
+        "descriptor_1": "15 Street Cond/Dump-Out/Drop-Off",
+        "of_srs": "7"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "Unspecified QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "87"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "Unspecified QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Wear & Tear",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "Unspecified QUEENS",
+        "agency": "DOT",
+        "complaint_type": "Traffic Signal Condition",
+        "descriptor_1": "Veh Signal Head",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "QUEENS",
+        "community_board": "Unspecified QUEENS",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "14"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "STATEN ISLAND",
+        "community_board": "01 STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "6"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "STATEN ISLAND",
+        "community_board": "02 STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "STATEN ISLAND",
+        "community_board": "03 STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Cave-in",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "STATEN ISLAND",
+        "community_board": "03 STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "5"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "STATEN ISLAND",
+        "community_board": "Unspecified STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Pothole",
+        "of_srs": "123"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "STATEN ISLAND",
+        "community_board": "Unspecified STATEN ISLAND",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Wear & Tear",
+        "of_srs": "2"
+    },
+    {
+        "created_month": "2014 / 02",
+        "borough": "STATEN ISLAND",
+        "community_board": "Unspecified STATEN ISLAND",
+        "agency": "DSNY",
+        "complaint_type": "Graffiti",
+        "descriptor_1": "Graffiti",
+        "of_srs": "3"
+    },
+    {
+        "created_month": "2014 / 03",
+        "borough": "BROOKLYN",
+        "community_board": "15 BROOKLYN",
+        "agency": "DOT",
+        "complaint_type": "Street Condition",
+        "descriptor_1": "Failed Street Repair",
+        "of_srs": "1"
+    }
+]

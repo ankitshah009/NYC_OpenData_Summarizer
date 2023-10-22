@@ -1,0 +1,114 @@
+[
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2005",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "36054"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2006",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "36285"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2007",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "36091"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2008",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "35754"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2009",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "35929"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2010",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "35161"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2011",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "34831"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2012",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "34873"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2013",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "35047"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2014",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "35095"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2015",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "34977"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2016",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "35781"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2017",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "36334"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2018",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "36615"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2019",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "36717"
+    },
+    {
+        "pub_dt": "20210426",
+        "fisc_yr": "2020",
+        "actl_frct": "ACTUAL",
+        "typ": "TOTAL",
+        "avg_hc": "36456"
+    }
+]

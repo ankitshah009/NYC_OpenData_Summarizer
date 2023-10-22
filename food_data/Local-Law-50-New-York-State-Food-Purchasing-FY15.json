@@ -1,0 +1,500 @@
+[
+    {
+        "food_type": "Apple Cider",
+        "from_new_york_state_source": "158",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Apples",
+        "from_new_york_state_source": "42896",
+        "other_source_during_new_york_state_availability_period": "8106",
+        "other_source_outside_new_york_state_availability_period": "2429"
+    },
+    {
+        "food_type": "Asparagus",
+        "from_new_york_state_source": "292",
+        "other_source_during_new_york_state_availability_period": "791",
+        "other_source_outside_new_york_state_availability_period": "143"
+    },
+    {
+        "food_type": "Barley",
+        "from_new_york_state_source": "750",
+        "other_source_during_new_york_state_availability_period": "500",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Beans",
+        "from_new_york_state_source": "1919",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Beets",
+        "from_new_york_state_source": "447",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Beverage Bases",
+        "from_new_york_state_source": "9748",
+        "other_source_during_new_york_state_availability_period": "1636",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Bok Choy",
+        "from_new_york_state_source": "0",
+        "other_source_during_new_york_state_availability_period": "286",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Bread, Rolls, Buns, Sweet Goods",
+        "from_new_york_state_source": "19816",
+        "other_source_during_new_york_state_availability_period": "2979",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Breakfast Cereals, Ready-to-Eat",
+        "from_new_york_state_source": "15396",
+        "other_source_during_new_york_state_availability_period": "1457",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Broccoli",
+        "from_new_york_state_source": "1954",
+        "other_source_during_new_york_state_availability_period": "598",
+        "other_source_outside_new_york_state_availability_period": "1531"
+    },
+    {
+        "food_type": "Brussel Sprouts",
+        "from_new_york_state_source": "48",
+        "other_source_during_new_york_state_availability_period": "100",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Buck Wheat",
+        "from_new_york_state_source": "1000",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Butter, Butter Products",
+        "from_new_york_state_source": "3210",
+        "other_source_during_new_york_state_availability_period": "3978",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Cabbage",
+        "from_new_york_state_source": "6702",
+        "other_source_during_new_york_state_availability_period": "8778",
+        "other_source_outside_new_york_state_availability_period": "528"
+    },
+    {
+        "food_type": "Canned Fruits, Concentrates, Nectars",
+        "from_new_york_state_source": "8807",
+        "other_source_during_new_york_state_availability_period": "3584",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Canned Vegetables, Veg. Juices",
+        "from_new_york_state_source": "5074",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Carrots",
+        "from_new_york_state_source": "10203",
+        "other_source_during_new_york_state_availability_period": "523",
+        "other_source_outside_new_york_state_availability_period": "556"
+    },
+    {
+        "food_type": "Cauliflower",
+        "from_new_york_state_source": "683",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Celery",
+        "from_new_york_state_source": "730",
+        "other_source_during_new_york_state_availability_period": "485",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Cheese, Cheese Products",
+        "from_new_york_state_source": "5846",
+        "other_source_during_new_york_state_availability_period": "2488",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Coffee, Tea, Cappuccino",
+        "from_new_york_state_source": "10632",
+        "other_source_during_new_york_state_availability_period": "9419",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Corn",
+        "from_new_york_state_source": "1890",
+        "other_source_during_new_york_state_availability_period": "46",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Cucumbers",
+        "from_new_york_state_source": "12363",
+        "other_source_during_new_york_state_availability_period": "40",
+        "other_source_outside_new_york_state_availability_period": "275"
+    },
+    {
+        "food_type": "Cured, Proc. Vegetable Prods.",
+        "from_new_york_state_source": "336",
+        "other_source_during_new_york_state_availability_period": "102",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Dietary Specialties, Artificial Sweeteners",
+        "from_new_york_state_source": "494",
+        "other_source_during_new_york_state_availability_period": "644",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Dressing, Condiments",
+        "from_new_york_state_source": "7086",
+        "other_source_during_new_york_state_availability_period": "1613",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Dried Fruits",
+        "from_new_york_state_source": "0",
+        "other_source_during_new_york_state_availability_period": "279",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Dried Milk, Dried Milk Products",
+        "from_new_york_state_source": "0",
+        "other_source_during_new_york_state_availability_period": "260",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Dried, Dehydrated Vegetables",
+        "from_new_york_state_source": "0",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Dry Dessert, Pudding Mixes",
+        "from_new_york_state_source": "1311",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Eggplant",
+        "from_new_york_state_source": "8646",
+        "other_source_during_new_york_state_availability_period": "35",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Eggs, Egg Products",
+        "from_new_york_state_source": "15546",
+        "other_source_during_new_york_state_availability_period": "3228",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Extracts, Flavors",
+        "from_new_york_state_source": "11000",
+        "other_source_during_new_york_state_availability_period": "11107",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Fish, Fish Products (not smoked)",
+        "from_new_york_state_source": "12308",
+        "other_source_during_new_york_state_availability_period": "17393",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Fresh Fruits, Juices (except apple cider)",
+        "from_new_york_state_source": "22184",
+        "other_source_during_new_york_state_availability_period": "7452",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Fresh Vegetables",
+        "from_new_york_state_source": "3713",
+        "other_source_during_new_york_state_availability_period": "11422",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Frozen Dinner Meals",
+        "from_new_york_state_source": "5376",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Frozen Fruits, Juices",
+        "from_new_york_state_source": "3000",
+        "other_source_during_new_york_state_availability_period": "2079",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Frozen Vegetables, Veg. Juices",
+        "from_new_york_state_source": "27727",
+        "other_source_during_new_york_state_availability_period": "2772",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Fruit Products",
+        "from_new_york_state_source": "190",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Garlic",
+        "from_new_york_state_source": "4316",
+        "other_source_during_new_york_state_availability_period": "4309",
+        "other_source_outside_new_york_state_availability_period": "1600"
+    },
+    {
+        "food_type": "Grapes",
+        "from_new_york_state_source": "20773",
+        "other_source_during_new_york_state_availability_period": "1134",
+        "other_source_outside_new_york_state_availability_period": "179"
+    },
+    {
+        "food_type": "Greens (Swiss Chard, Kale)",
+        "from_new_york_state_source": "4269",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "1862"
+    },
+    {
+        "food_type": "Honey, Syrup, Sugar",
+        "from_new_york_state_source": "3846",
+        "other_source_during_new_york_state_availability_period": "882",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Ice Cream, Related Products",
+        "from_new_york_state_source": "0",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Jams, Jellies, Preserves, Butter",
+        "from_new_york_state_source": "1264",
+        "other_source_during_new_york_state_availability_period": "80",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Leeks",
+        "from_new_york_state_source": "0",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Lettuce",
+        "from_new_york_state_source": "8934",
+        "other_source_during_new_york_state_availability_period": "5313",
+        "other_source_outside_new_york_state_availability_period": "5414"
+    },
+    {
+        "food_type": "Macaroni, Noodle Products",
+        "from_new_york_state_source": "14827",
+        "other_source_during_new_york_state_availability_period": "1215",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Maple Syrup",
+        "from_new_york_state_source": "1383",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Meat, Meat Products",
+        "from_new_york_state_source": "191571",
+        "other_source_during_new_york_state_availability_period": "57339",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Melons",
+        "from_new_york_state_source": "12220",
+        "other_source_during_new_york_state_availability_period": "5442",
+        "other_source_outside_new_york_state_availability_period": "9294"
+    },
+    {
+        "food_type": "Milk, Milk Products",
+        "from_new_york_state_source": "26732",
+        "other_source_during_new_york_state_availability_period": "86679",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Nuts, Nut Products",
+        "from_new_york_state_source": "4876",
+        "other_source_during_new_york_state_availability_period": "800",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Oats",
+        "from_new_york_state_source": "783",
+        "other_source_during_new_york_state_availability_period": "300",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Onions",
+        "from_new_york_state_source": "9563",
+        "other_source_during_new_york_state_availability_period": "2774",
+        "other_source_outside_new_york_state_availability_period": "1067"
+    },
+    {
+        "food_type": "Peaches",
+        "from_new_york_state_source": "5389",
+        "other_source_during_new_york_state_availability_period": "4806",
+        "other_source_outside_new_york_state_availability_period": "4500"
+    },
+    {
+        "food_type": "Pears",
+        "from_new_york_state_source": "8050",
+        "other_source_during_new_york_state_availability_period": "6831",
+        "other_source_outside_new_york_state_availability_period": "100"
+    },
+    {
+        "food_type": "Peas",
+        "from_new_york_state_source": "1512",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Peppers",
+        "from_new_york_state_source": "2520",
+        "other_source_during_new_york_state_availability_period": "34",
+        "other_source_outside_new_york_state_availability_period": "720"
+    },
+    {
+        "food_type": "Plums",
+        "from_new_york_state_source": "6307",
+        "other_source_during_new_york_state_availability_period": "1945",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Potatoes",
+        "from_new_york_state_source": "18073",
+        "other_source_during_new_york_state_availability_period": "56782",
+        "other_source_outside_new_york_state_availability_period": "1391"
+    },
+    {
+        "food_type": "Prep. Mixes, Dry Flour/Meal Base",
+        "from_new_york_state_source": "204",
+        "other_source_during_new_york_state_availability_period": "3332",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Prepared Multiple Foods",
+        "from_new_york_state_source": "9112",
+        "other_source_during_new_york_state_availability_period": "828",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Pretzels, Chips, Specialty Items",
+        "from_new_york_state_source": "2964",
+        "other_source_during_new_york_state_availability_period": "187",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Proc. Grain, Starch Prods.-Human",
+        "from_new_york_state_source": "287",
+        "other_source_during_new_york_state_availability_period": "2867",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Pumpkins",
+        "from_new_york_state_source": "48",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Ref. Veg. Oil, Shortening, Oleo",
+        "from_new_york_state_source": "3335",
+        "other_source_during_new_york_state_availability_period": "825",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Shellfish, Crustaceans, Etc.",
+        "from_new_york_state_source": "1702",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Soft Drinks, Water",
+        "from_new_york_state_source": "263",
+        "other_source_during_new_york_state_availability_period": "883",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Soy Products",
+        "from_new_york_state_source": "1536",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Spices, Salt",
+        "from_new_york_state_source": "2350",
+        "other_source_during_new_york_state_availability_period": "745",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Spinach",
+        "from_new_york_state_source": "1074",
+        "other_source_during_new_york_state_availability_period": "198",
+        "other_source_outside_new_york_state_availability_period": "1800"
+    },
+    {
+        "food_type": "Squash (summer)",
+        "from_new_york_state_source": "2737",
+        "other_source_during_new_york_state_availability_period": "60",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Squash (winter)",
+        "from_new_york_state_source": "1657",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Strawberries",
+        "from_new_york_state_source": "785",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Sweet Potatoes",
+        "from_new_york_state_source": "11593",
+        "other_source_during_new_york_state_availability_period": "8158",
+        "other_source_outside_new_york_state_availability_period": "4806"
+    },
+    {
+        "food_type": "Tomatoes",
+        "from_new_york_state_source": "17621",
+        "other_source_during_new_york_state_availability_period": "8580",
+        "other_source_outside_new_york_state_availability_period": "3405"
+    },
+    {
+        "food_type": "Turnips",
+        "from_new_york_state_source": "360",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Veg. Oil Seed, Oil Stock, Crude Oil",
+        "from_new_york_state_source": "6360",
+        "other_source_during_new_york_state_availability_period": "3052",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Wheat",
+        "from_new_york_state_source": "3858",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    },
+    {
+        "food_type": "Whole Grains, Beans-Bulk",
+        "from_new_york_state_source": "3537",
+        "other_source_during_new_york_state_availability_period": "0",
+        "other_source_outside_new_york_state_availability_period": "0"
+    }
+]
